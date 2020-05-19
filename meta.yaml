@@ -1,0 +1,5 @@
+collection:
+  - name: This is a test name
+    description: This is a test description
+  - name: This is another test name
+    description: This is another test description
