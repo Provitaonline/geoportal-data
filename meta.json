@@ -8,6 +8,11 @@
       "description": {
         "en": "This is a test description",
         "es": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
+      },
+      "date": "2020-06-01",
+      "keywords": {
+        "en": ["one", "two", "three"],
+        "es": ["uno", "dos", "tres"]
       }
     },
     {
@@ -18,7 +23,8 @@
       "description": {
         "en": "This is a test description",
         "es": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
-      }
+      },
+      "date": "2020-06-01"
     },
     {
       "name": {
@@ -28,7 +34,8 @@
       "description": {
         "en": "This is a test description",
         "es": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
-      }
+      },
+      "date": "2020-06-01"
     },
     {
       "name": {
@@ -38,7 +45,8 @@
       "description": {
         "en": "This is a test description",
         "es": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?"
-      }
+      },
+      "date": "2020-06-01"
     },
     {
       "name": {
@@ -48,7 +56,8 @@
       "description": {
         "en": "This is a test description",
         "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
-      }
+      },
+      "date": "2020-06-01"
     }
   ]
 }
