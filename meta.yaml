@@ -1,15 +1,31 @@
-collection:
-  - name: This is a test name (test -1)
-    description: This is a test description
-  - name: This is another test name
-    description: This is another test description
-  - name: This is a test name (test -1)
-    description: This is a test description
-  - name: This is another test name
-    description: This is another test description
-  - name: This is a test name (test -1)
-    description: This is a test description
-  - name: This is another test name
-    description: This is another test description
-  - name: This is another test name
-    description: This is another test description
+collection: 
+  - name: 
+      en: This is a test name (1)
+      es: Nombre de prueba (1)
+    description: 
+      en: This is a test description
+      es: Esta es la descripción de prueba
+  - name: 
+      en: This is a test name (2)
+      es: Nombre de prueba (2)
+    description: 
+      en: This is a test description
+      es: Esta es la descripción de prueba
+  - name: 
+      en: This is a test name (3)
+      es: Nombre de prueba (3)
+    description: 
+      en: This is a test description
+      es: Esta es la descripción de prueba
+  - name: 
+      en: This is a test name (4)
+      es: Nombre de prueba (4)
+    description: 
+      en: This is a test description
+      es: Esta es la descripción de prueba
+  - name: 
+      en: This is a test name (5)
+      es: Nombre de prueba (5)
+    description: 
+      en: This is a test description
+      es: Esta es la descripción de prueba
