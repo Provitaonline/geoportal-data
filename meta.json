@@ -11,8 +11,8 @@
       },
       "date": "2020-06-01T07:00Z",
       "keywords": {
-        "en": ["one", "two", "three"],
-        "es": ["uno", "dos", "tres"]
+        "en": ["Roads", "Shapefile", "Vector"],
+        "es": ["Vialidad", "Shapefile", "Vector"]
       }
     },
     {
@@ -24,7 +24,11 @@
         "en": "This is a test description",
         "es": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
       },
-      "date": "2020-06-01T07:00Z"
+      "date": "2020-06-01T07:00Z",
+      "keywords": {
+        "en": ["Municipalities", "Shapefile", "Vector"],
+        "es": ["Municipios", "Shapefile", "Vector"]
+      }
     },
     {
       "name": {
@@ -35,7 +39,11 @@
         "en": "This is a test description",
         "es": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
       },
-      "date": "2020-06-01"
+      "date": "2020-06-01",
+      "keywords": {
+        "en": ["Hydrography", "Shapefile", "Vector"],
+        "es": ["Hidrografía", "Shapefile", "Vector"]
+      }
     },
     {
       "name": {
@@ -46,7 +54,11 @@
         "en": "This is a test description",
         "es": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?"
       },
-      "date": "2020-06-01T07:00Z"
+      "date": "2020-06-01T07:00Z",
+      "keywords": {
+        "en": ["States", "Shapefile", "Vector"],
+        "es": ["Estados", "Shapefile", "Vector"]
+      }
     },
     {
       "name": {
@@ -57,7 +69,11 @@
         "en": "This is a test description",
         "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
       },
-      "date": "2020-06-01T07:00Z"
+      "date": "2020-06-01T07:00Z",
+      "keywords": {
+        "en": ["Ecosystems", "Shapefile", "Vector"],
+        "es": ["Ecosistemas", "Shapefile", "Vector"]
+      }
     },
     {
       "name": {
@@ -68,7 +84,11 @@
         "en": "This is a test description",
         "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
       },
-      "date": "2020-06-01T07:00Z"
+      "date": "2020-06-01T07:00Z",
+      "keywords": {
+        "en": ["Basins", "Shapefile", "Vector"],
+        "es": ["Cuencas", "Shapefile", "Vector"]
+      }
     },
     {
       "name": {
@@ -79,7 +99,41 @@
         "en": "This is a test description",
         "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
       },
-      "date": "2020-06-01T07:00Z"
+      "date": "2020-06-01T07:00Z",
+      "keywords": {
+        "en": ["PNA", "Protected areas", "Shapefile", "Vector"],
+        "es": ["ANP", "Áreas protegidas", "Shapefile", "Vector"]
+      }
+    },
+    {
+      "name": {
+        "en": "Forests",
+        "es": "Bosques"
+      },
+      "description": {
+        "en": "This is a test description",
+        "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+      },
+      "date": "2020-06-01T07:00Z",
+      "keywords": {
+        "en": ["Forests", "GeoTIFF", "Raster"],
+        "es": ["Bosques", "GeoTIFF", "Ráster"]
+      }
+    },
+    {
+      "name": {
+        "en": "Digital elevation model",
+        "es": "Modelo digital del terreno"
+      },
+      "description": {
+        "en": "This is a test description",
+        "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+      },
+      "date": "2020-06-01T07:00Z",
+      "keywords": {
+        "en": ["DEM", "Elevation", "GeoTIFF", "Raster"],
+        "es": ["DEM", "MDT", "Altitud", "GeoTIFF", "Ráster"]
+      }
     }
   ]
 }
