@@ -10,6 +10,7 @@
         "es": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
       },
       "date": "2020-06-01T07:00Z",
+      "file": "Vialidad.zip",
       "thumb": "Vialidad.png",
       "keywords": {
         "en": ["Roads", "Shapefile", "Vector"],
@@ -26,6 +27,7 @@
         "es": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
       },
       "date": "2020-06-01T07:00Z",
+      "file": "Municipios.zip",
       "thumb": "Municipios.png",
       "keywords": {
         "en": ["Municipalities", "Shapefile", "Vector"],
@@ -42,6 +44,7 @@
         "es": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
       },
       "date": "2020-06-01",
+      "file": "Hidrografia.zip",
       "keywords": {
         "en": ["Hydrography", "Shapefile", "Vector"],
         "es": ["Hidrografía", "Shapefile", "Vector"]
@@ -57,6 +60,7 @@
         "es": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?"
       },
       "date": "2020-06-01T07:00Z",
+      "file": "Estados.zip",
       "keywords": {
         "en": ["States", "Shapefile", "Vector"],
         "es": ["Estados", "Shapefile", "Vector"]
@@ -72,6 +76,7 @@
         "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
       },
       "date": "2020-06-01T07:00Z",
+      "file": "Ecosistemas.zip",
       "keywords": {
         "en": ["Ecosystems", "Shapefile", "Vector"],
         "es": ["Ecosistemas", "Shapefile", "Vector"]
@@ -87,6 +92,7 @@
         "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
       },
       "date": "2020-06-01T07:00Z",
+      "file": "Cuencas.zip",
       "keywords": {
         "en": ["Basins", "Shapefile", "Vector"],
         "es": ["Cuencas", "Shapefile", "Vector"]
@@ -99,6 +105,7 @@
       },
       "description": {
         "en": "This is a test description",
+        "file": "ANP.zip",
         "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
       },
       "date": "2020-06-01T07:00Z",
@@ -117,6 +124,8 @@
         "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
       },
       "date": "2020-06-01T07:00Z",
+      "file": "Bosques.tif",
+      "tiles": "bosques",
       "keywords": {
         "en": ["Forests", "GeoTIFF", "Raster"],
         "es": ["Bosques", "GeoTIFF", "Ráster"]
@@ -132,6 +141,7 @@
         "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
       },
       "date": "2020-06-01T07:00Z",
+      "file": "DEM_30m.tif",
       "keywords": {
         "en": ["DEM", "Elevation", "GeoTIFF", "Raster"],
         "es": ["DEM", "MDT", "Altitud", "GeoTIFF", "Ráster"]
