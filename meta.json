@@ -93,6 +93,11 @@
       },
       "date": "2020-06-01T07:00Z",
       "file": "Cuencas.zip",
+      "tiles": "cuencas",
+      "tileInfo": {
+        "type": "vector",
+        "color": "#66ccff"
+      },
       "keywords": {
         "en": ["Basins", "Shapefile", "Vector"],
         "es": ["Cuencas", "Shapefile", "Vector"]
