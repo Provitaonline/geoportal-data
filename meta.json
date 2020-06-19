@@ -109,6 +109,11 @@
       },
       "date": "2020-06-01T07:00Z",
       "file": "ANP.zip",
+      "tiles": {
+        "folder": "ANP",
+        "type": "vector",
+        "color": "#8A2BE2"
+      },
       "keywords": {
         "en": ["PNA", "Protected areas", "Shapefile", "Vector"],
         "es": ["ANP", "Áreas protegidas", "Shapefile", "Vector"]
@@ -125,7 +130,10 @@
       },
       "date": "2020-06-01T07:00Z",
       "file": "Bosques.tif",
-      "tiles": "bosques",
+      "tiles": {
+        "folder": "bosques",
+        "type": "raster"
+      },
       "keywords": {
         "en": ["Forests", "GeoTIFF", "Raster"],
         "es": ["Bosques", "GeoTIFF", "Ráster"]
