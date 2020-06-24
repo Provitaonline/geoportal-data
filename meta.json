@@ -28,6 +28,11 @@
       },
       "date": "2020-06-01T07:00Z",
       "file": "Municipios.zip",
+      "tiles": "municipios",
+      "tileInfo": {
+        "type": "vector",
+        "color": "#FFA500"
+      },
       "thumb": "Municipios.png",
       "keywords": {
         "en": ["Municipalities", "Shapefile", "Vector"],
@@ -61,6 +66,11 @@
       },
       "date": "2020-06-01T07:00Z",
       "file": "Estados.zip",
+      "tiles": "estados",
+      "tileInfo": {
+        "type": "vector",
+        "color": "#F0E68C"
+      },
       "keywords": {
         "en": ["States", "Shapefile", "Vector"],
         "es": ["Estados", "Shapefile", "Vector"]
