@@ -80,7 +80,18 @@
       "tiles": "estados",
       "tileInfo": {
         "type": "vector",
-        "color": "#F0E68C"
+        "color": "#F0E68C",
+        "style": {
+          "id": "estados",
+          "type": "fill",
+          "source": "estados",
+          "source-layer": "estados",
+          "paint": {
+            "fill-color": "#F0E68C",
+            "fill-outline-color": "black",
+            "fill-opacity": 0.5
+          }
+        }
       },
       "keywords": {
         "en": ["States", "Shapefile", "Vector"],
@@ -101,7 +112,18 @@
       "tiles": "ecosistemas",
       "tileInfo": {
         "type": "vector",
-        "color": "#ffb3b3"
+        "color": "#ffb3b3",
+        "style": {
+          "id": "ecosistemas",
+          "type": "fill",
+          "source": "ecosistemas",
+          "source-layer": "ecosistemas",
+          "paint": {
+            "fill-color": "#ffb3b3",
+            "fill-outline-color": "black",
+            "fill-opacity": 0.5
+          }
+        }
       },
       "keywords": {
         "en": ["Ecosystems", "Shapefile", "Vector"],
@@ -122,7 +144,18 @@
       "tiles": "cuencas",
       "tileInfo": {
         "type": "vector",
-        "color": "#66ccff"
+        "color": "#66ccff",
+        "style": {
+          "id": "cuencas",
+          "type": "fill",
+          "source": "cuencas",
+          "source-layer": "cuencas",
+          "paint": {
+            "fill-color": "#66ccff",
+            "fill-outline-color": "black",
+            "fill-opacity": 0.5
+          }
+        }
       },
       "keywords": {
         "en": ["Basins", "Shapefile", "Vector"],
@@ -143,7 +176,17 @@
       "tiles": "ANP",
       "tileInfo": {
         "type": "vector",
-        "color": "#8A2BE2"
+        "color": "#8A2BE2",
+        "style": {
+          "id": "ANP",
+          "type": "fill",
+          "source": "ANP",
+          "source-layer": "ANP",
+          "paint": {
+            "fill-color": "#8A2BE2",
+            "fill-outline-color": "black",
+            "fill-opacity": 0.5
+          }
       },
       "keywords": {
         "en": ["PNA", "Protected areas", "Shapefile", "Vector"],
