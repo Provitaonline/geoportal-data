@@ -31,7 +31,18 @@
       "tiles": "municipios",
       "tileInfo": {
         "type": "vector",
-        "color": "#FFA500"
+        "color": "#FFA500",
+        "style": {
+          "id": "municipios",
+          "type": "fill",
+          "source": "municipios",
+          "source-layer": "municipios",
+          "paint": {
+            "fill-color": "#FFA500",
+            "fill-outline-color": "black",
+            "fill-opacity": 0.5
+          }
+        }
       },
       "thumb": "Municipios.png",
       "keywords": {
