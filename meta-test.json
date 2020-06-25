@@ -187,6 +187,7 @@
             "fill-outline-color": "black",
             "fill-opacity": 0.5
           }
+        }
       },
       "keywords": {
         "en": ["PNA", "Protected areas", "Shapefile", "Vector"],
