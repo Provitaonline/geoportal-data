@@ -256,6 +256,20 @@
       },
       "date": "2020-06-01T07:00Z",
       "file": "DEM_30m.tif",
+      "tiles": "contour",
+      "tileInfo": {
+        "type": "vector",
+        "style": {
+          "id": "contour",
+          "type": "line",
+          "source": "contour",
+          "source-layer": "contour",
+          "paint": {
+            "line-color": "#774d3a",
+            "line-width": 2
+          }
+        }
+      },
       "keywords": {
         "en": ["DEM", "Elevation", "GeoTIFF", "Raster"],
         "es": ["DEM", "MDT", "Altitud", "GeoTIFF", "Ráster"]
