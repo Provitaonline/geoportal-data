@@ -60,6 +60,19 @@
       },
       "date": "2020-06-01",
       "file": "Hidrografia.zip",
+      "tiles": "hidrografia",
+      "tileInfo": {
+        "type": "vector",
+        "style": {
+          "id": "hidrografia",
+          "type": "line",
+          "source": "hidrografia",
+          "source-layer": "hidrografia",
+          "paint": {
+            "line-color": "blue",
+            "line-width": 4
+          }
+        }
       "keywords": {
         "en": ["Hydrography", "Shapefile", "Vector"],
         "es": ["Hidrografía", "Shapefile", "Vector"]
