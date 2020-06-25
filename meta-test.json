@@ -69,8 +69,8 @@
           "source": "hidrografia",
           "source-layer": "hidrografia",
           "paint": {
-            "line-color": "blue",
-            "line-width": 4
+            "line-color": "#005c99",
+            "line-width": 2
           }
         }
       },
