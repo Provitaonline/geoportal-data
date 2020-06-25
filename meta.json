@@ -11,6 +11,20 @@
       },
       "date": "2020-06-01T07:00Z",
       "file": "Vialidad.zip",
+      "tiles": "vialidad",
+      "tileInfo": {
+        "type": "vector",
+        "style": {
+          "id": "vialidad",
+          "type": "line",
+          "source": "vialidad",
+          "source-layer": "vialidad",
+          "paint": {
+            "line-color": "#484848",
+            "line-width": 2
+          }
+        }
+      },
       "thumb": "Vialidad.png",
       "keywords": {
         "en": ["Roads", "Shapefile", "Vector"],
@@ -60,6 +74,20 @@
       },
       "date": "2020-06-01",
       "file": "Hidrografia.zip",
+      "tiles": "hidrografia",
+      "tileInfo": {
+        "type": "vector",
+        "style": {
+          "id": "hidrografia",
+          "type": "line",
+          "source": "hidrografia",
+          "source-layer": "hidrografia",
+          "paint": {
+            "line-color": "#005c99",
+            "line-width": 2
+          }
+        }
+      },
       "keywords": {
         "en": ["Hydrography", "Shapefile", "Vector"],
         "es": ["Hidrografía", "Shapefile", "Vector"]
@@ -116,7 +144,15 @@
           "source": "ecosistemas",
           "source-layer": "ecosistemas",
           "paint": {
-            "fill-color": "#ffb3b3",
+            "fill-color": [
+              "interpolate",
+              ["linear"],
+              ["get", "N_ecosiste"],
+              0,
+              "#daf8bd",
+              67,
+              "#13570e"
+            ],
             "fill-outline-color": "black",
             "fill-opacity": 0.5
           }
@@ -220,6 +256,20 @@
       },
       "date": "2020-06-01T07:00Z",
       "file": "DEM_30m.tif",
+      "tiles": "contour",
+      "tileInfo": {
+        "type": "vector",
+        "style": {
+          "id": "contour",
+          "type": "line",
+          "source": "contour",
+          "source-layer": "contour",
+          "paint": {
+            "line-color": "#774d3a",
+            "line-width": 1
+          }
+        }
+      },
       "keywords": {
         "en": ["DEM", "Elevation", "GeoTIFF", "Raster"],
         "es": ["DEM", "MDT", "Altitud", "GeoTIFF", "Ráster"]
