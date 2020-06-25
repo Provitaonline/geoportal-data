@@ -116,7 +116,15 @@
           "source": "ecosistemas",
           "source-layer": "ecosistemas",
           "paint": {
-            "fill-color": "#ffb3b3",
+            "fill-color": [
+              "interpolate",
+              ["linear"],
+              ["get", "N_ecosiste"],
+              0,
+              "#daf8bd",
+              67,
+              "#13620e"
+            ],
             "fill-outline-color": "black",
             "fill-opacity": 0.5
           }
