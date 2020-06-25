@@ -31,7 +31,6 @@
       "tiles": "municipios",
       "tileInfo": {
         "type": "vector",
-        "color": "#FFA500",
         "style": {
           "id": "municipios",
           "type": "fill",
@@ -80,7 +79,6 @@
       "tiles": "estados",
       "tileInfo": {
         "type": "vector",
-        "color": "#F0E68C",
         "style": {
           "id": "estados",
           "type": "fill",
@@ -112,7 +110,6 @@
       "tiles": "ecosistemas",
       "tileInfo": {
         "type": "vector",
-        "color": "#ffb3b3",
         "style": {
           "id": "ecosistemas",
           "type": "fill",
@@ -144,7 +141,6 @@
       "tiles": "cuencas",
       "tileInfo": {
         "type": "vector",
-        "color": "#66ccff",
         "style": {
           "id": "cuencas",
           "type": "fill",
@@ -176,7 +172,6 @@
       "tiles": "ANP",
       "tileInfo": {
         "type": "vector",
-        "color": "#8A2BE2",
         "style": {
           "id": "ANP",
           "type": "fill",
