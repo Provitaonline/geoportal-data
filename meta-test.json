@@ -266,7 +266,7 @@
           "source-layer": "contour",
           "paint": {
             "line-color": "#774d3a",
-            "line-width": 2
+            "line-width": 1
           }
         }
       },
