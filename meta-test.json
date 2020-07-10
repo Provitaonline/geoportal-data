@@ -224,7 +224,7 @@
             "fill-color": {
               "property": "CATEGORIA",
               "type": "categorical",
-              "stops": [["Parque Nacional", "#8A2BE2"], ["Monumento Natural", "#7D0056"], ["Reserva de Biosfera", "#554080"], "Reserva Forestal", "#6D8059"]
+              "stops": [["Parque Nacional", "#8A2BE2"], ["Monumento Natural", "#7D0056"], ["Reserva de Biosfera", "#554080"], ["Reserva Forestal", "#6D8059"]]
             },
             "fill-outline-color": "black",
             "fill-opacity": 0.5
