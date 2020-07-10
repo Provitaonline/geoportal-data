@@ -14,6 +14,7 @@
       "tiles": "vialidad",
       "tileInfo": {
         "type": "vector",
+        "displayAttribute": "leyenda",
         "style": {
           "id": "vialidad",
           "type": "line",
@@ -45,6 +46,7 @@
       "tiles": "municipios",
       "tileInfo": {
         "type": "vector",
+        "displayAttribute": "NAM",
         "style": {
           "id": "municipios",
           "type": "fill",
@@ -77,6 +79,7 @@
       "tiles": "hidrografia",
       "tileInfo": {
         "type": "vector",
+        "displayAttribute": "Nombre",
         "style": {
           "id": "hidrografia",
           "type": "line",
@@ -107,6 +110,7 @@
       "tiles": "estados",
       "tileInfo": {
         "type": "vector",
+        "displayAttribute": "NAM",
         "style": {
           "id": "estados",
           "type": "fill",
@@ -138,6 +142,7 @@
       "tiles": "ecosistemas",
       "tileInfo": {
         "type": "vector",
+        "displayAttribute": "leyenda",
         "style": {
           "id": "ecosistemas",
           "type": "fill",
@@ -177,6 +182,7 @@
       "tiles": "cuencas",
       "tileInfo": {
         "type": "vector",
+        "displayAttribute": "NOMBRE",
         "style": {
           "id": "cuencas",
           "type": "fill",
@@ -208,6 +214,7 @@
       "tiles": "ANP",
       "tileInfo": {
         "type": "vector",
+        "displayAttribute": "NOMBRE",
         "style": {
           "id": "ANP",
           "type": "fill",
@@ -259,6 +266,7 @@
       "tiles": "contour",
       "tileInfo": {
         "type": "vector",
+        "displayAttribute": "ELEV",
         "style": {
           "id": "contour",
           "type": "line",
