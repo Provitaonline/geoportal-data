@@ -2,66 +2,26 @@
   "collection": [
     {
       "name": {
-        "en": "Protected Natural Areas",
-        "es": "Áreas Naturales Protegidas"
+        "es": "Prueba",
+        "en": "Test"
+      },
+      "file": "ZYX.zip",
+      "date": "2020-07-20T10:00Z",
+      "keywords": {
+        "es": [
+          "test"
+        ],
+        "en": [
+          "test"
+        ]
       },
       "description": {
-        "en": "This is a test description",
-        "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+        "es": "test",
+        "en": "Test"
       },
-      "date": "2020-06-01T07:00Z",
-      "file": "ANP.zip",
-      "tiles": "ANP",
+      "tiles": "test",
       "tileInfo": {
-        "type": "vector",
-        "displayAttribute": "NOMBRE",
-        "style": {
-          "id": "ANP",
-          "type": "fill",
-          "source": "ANP",
-          "source-layer": "ANP",
-          "paint": {
-            "fill-color": {
-              "property": "CATEGORIA",
-              "type": "categorical",
-              "default": "#760000",
-              "stops": [
-                [
-                  "Parque Nacional",
-                  "#8A2BE2"
-                ],
-                [
-                  "Monumento Natural",
-                  "#7D0056"
-                ],
-                [
-                  "Reserva de Biosfera",
-                  "#554080"
-                ],
-                [
-                  "Reserva Forestal",
-                  "#6D8059"
-                ]
-              ]
-            },
-            "fill-outline-color": "#000",
-            "fill-opacity": 0.5
-          }
-        }
-      },
-      "keywords": {
-        "en": [
-          "PNA",
-          "Protected areas",
-          "Shapefile",
-          "Vector"
-        ],
-        "es": [
-          "ANP",
-          "Áreas protegidas",
-          "Shapefile",
-          "Vector"
-        ]
+        "type": "raster"
       }
     },
     {
@@ -349,26 +309,42 @@
     },
     {
       "name": {
-        "es": "Prueba",
-        "en": "Test"
-      },
-      "file": "ZYX.zip",
-      "date": "2020-07-20T09:00Z",
-      "keywords": {
-        "es": [
-          "prueba"
-        ],
-        "en": [
-          "test"
-        ]
+        "en": "Roads",
+        "es": "Vialidad"
       },
       "description": {
-        "es": "Esto es solo una prueba",
-        "en": "This is only a test"
+        "en": "This is a test description",
+        "es": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
       },
-      "tiles": "ZYX",
+      "date": "2020-06-01T07:00Z",
+      "file": "Vialidad.zip",
+      "tiles": "vialidad",
       "tileInfo": {
-        "type": "raster"
+        "type": "vector",
+        "displayAttribute": "leyenda",
+        "style": {
+          "id": "vialidad",
+          "type": "line",
+          "source": "vialidad",
+          "source-layer": "vialidad",
+          "paint": {
+            "line-color": "#484848",
+            "line-width": 2
+          }
+        }
+      },
+      "thumb": "Vialidad.png",
+      "keywords": {
+        "en": [
+          "Roads",
+          "Shapefile",
+          "Vector"
+        ],
+        "es": [
+          "Vialidad",
+          "Shapefile",
+          "Vector"
+        ]
       }
     }
   ]
