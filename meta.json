@@ -2,26 +2,66 @@
   "collection": [
     {
       "name": {
-        "es": "Prueba",
-        "en": "Test"
-      },
-      "file": "ZYX.zip",
-      "date": "2020-07-20T10:00Z",
-      "keywords": {
-        "es": [
-          "test"
-        ],
-        "en": [
-          "test"
-        ]
+        "en": "Protected Natural Areas",
+        "es": "Áreas Naturales Protegidas"
       },
       "description": {
-        "es": "test",
-        "en": "Test"
+        "en": "This is a test description",
+        "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
       },
-      "tiles": "test",
+      "date": "2020-06-01T07:00Z",
+      "file": "ANP.zip",
+      "tiles": "ANP",
       "tileInfo": {
-        "type": "raster"
+        "type": "vector",
+        "displayAttribute": "NOMBRE",
+        "style": {
+          "id": "ANP",
+          "type": "fill",
+          "source": "ANP",
+          "source-layer": "ANP",
+          "paint": {
+            "fill-color": {
+              "property": "CATEGORIA",
+              "type": "categorical",
+              "default": "#760000",
+              "stops": [
+                [
+                  "Parque Nacional",
+                  "#8A2BE2"
+                ],
+                [
+                  "Monumento Natural",
+                  "#7D0056"
+                ],
+                [
+                  "Reserva de Biosfera",
+                  "#554080"
+                ],
+                [
+                  "Reserva Forestal",
+                  "#6D8059"
+                ]
+              ]
+            },
+            "fill-outline-color": "#000",
+            "fill-opacity": 0.5
+          }
+        }
+      },
+      "keywords": {
+        "en": [
+          "PNA",
+          "Protected areas",
+          "Shapefile",
+          "Vector"
+        ],
+        "es": [
+          "ANP",
+          "Áreas protegidas",
+          "Shapefile",
+          "Vector"
+        ]
       }
     },
     {
@@ -310,7 +350,7 @@
     {
       "name": {
         "en": "Roads",
-        "es": "Vialidad"
+        "es": "Vialidad -test"
       },
       "description": {
         "en": "This is a test description",
