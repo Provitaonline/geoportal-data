@@ -28,8 +28,16 @@
       },
       "thumb": "Vialidad.png",
       "keywords": {
-        "en": ["Roads", "Shapefile", "Vector"],
-        "es": ["Vialidad", "Shapefile", "Vector"]
+        "en": [
+          "Roads",
+          "Shapefile",
+          "Vector"
+        ],
+        "es": [
+          "Vialidad",
+          "Shapefile",
+          "Vector"
+        ]
       }
     },
     {
@@ -61,8 +69,16 @@
       },
       "thumb": "Municipios.png",
       "keywords": {
-        "en": ["Municipalities", "Shapefile", "Vector"],
-        "es": ["Municipios", "Shapefile", "Vector"]
+        "en": [
+          "Municipalities",
+          "Shapefile",
+          "Vector"
+        ],
+        "es": [
+          "Municipios",
+          "Shapefile",
+          "Vector"
+        ]
       }
     },
     {
@@ -92,8 +108,16 @@
         }
       },
       "keywords": {
-        "en": ["Hydrography", "Shapefile", "Vector"],
-        "es": ["Hidrografía", "Shapefile", "Vector"]
+        "en": [
+          "Hydrography",
+          "Shapefile",
+          "Vector"
+        ],
+        "es": [
+          "Hidrografía",
+          "Shapefile",
+          "Vector"
+        ]
       }
     },
     {
@@ -124,8 +148,16 @@
         }
       },
       "keywords": {
-        "en": ["States", "Shapefile", "Vector"],
-        "es": ["Estados", "Shapefile", "Vector"]
+        "en": [
+          "States",
+          "Shapefile",
+          "Vector"
+        ],
+        "es": [
+          "Estados",
+          "Shapefile",
+          "Vector"
+        ]
       }
     },
     {
@@ -151,8 +183,13 @@
           "paint": {
             "fill-color": [
               "interpolate",
-              ["linear"],
-              ["get", "N_ecosiste"],
+              [
+                "linear"
+              ],
+              [
+                "get",
+                "N_ecosiste"
+              ],
               0,
               "#daf8bd",
               67,
@@ -164,8 +201,16 @@
         }
       },
       "keywords": {
-        "en": ["Ecosystems", "Shapefile", "Vector"],
-        "es": ["Ecosistemas", "Shapefile", "Vector"]
+        "en": [
+          "Ecosystems",
+          "Shapefile",
+          "Vector"
+        ],
+        "es": [
+          "Ecosistemas",
+          "Shapefile",
+          "Vector"
+        ]
       }
     },
     {
@@ -196,8 +241,16 @@
         }
       },
       "keywords": {
-        "en": ["Basins", "Shapefile", "Vector"],
-        "es": ["Cuencas", "Shapefile", "Vector"]
+        "en": [
+          "Basins",
+          "Shapefile",
+          "Vector"
+        ],
+        "es": [
+          "Cuencas",
+          "Shapefile",
+          "Vector"
+        ]
       }
     },
     {
@@ -225,7 +278,24 @@
               "property": "CATEGORIA",
               "type": "categorical",
               "default": "#760000",
-              "stops": [["Parque Nacional", "#8A2BE2"], ["Monumento Natural", "#7D0056"], ["Reserva de Biosfera", "#554080"], ["Reserva Forestal", "#6D8059"]]
+              "stops": [
+                [
+                  "Parque Nacional",
+                  "#8A2BE2"
+                ],
+                [
+                  "Monumento Natural",
+                  "#7D0056"
+                ],
+                [
+                  "Reserva de Biosfera",
+                  "#554080"
+                ],
+                [
+                  "Reserva Forestal",
+                  "#6D8059"
+                ]
+              ]
             },
             "fill-outline-color": "black",
             "fill-opacity": 0.5
@@ -233,8 +303,18 @@
         }
       },
       "keywords": {
-        "en": ["PNA", "Protected areas", "Shapefile", "Vector"],
-        "es": ["ANP", "Áreas protegidas", "Shapefile", "Vector"]
+        "en": [
+          "PNA",
+          "Protected areas",
+          "Shapefile",
+          "Vector"
+        ],
+        "es": [
+          "ANP",
+          "Áreas protegidas",
+          "Shapefile",
+          "Vector"
+        ]
       }
     },
     {
@@ -253,8 +333,16 @@
         "type": "raster"
       },
       "keywords": {
-        "en": ["Forests", "GeoTIFF", "Raster"],
-        "es": ["Bosques", "GeoTIFF", "Ráster"]
+        "en": [
+          "Forests",
+          "GeoTIFF",
+          "Raster"
+        ],
+        "es": [
+          "Bosques",
+          "GeoTIFF",
+          "Ráster"
+        ]
       }
     },
     {
@@ -284,8 +372,43 @@
         }
       },
       "keywords": {
-        "en": ["DEM", "Elevation", "GeoTIFF", "Raster"],
-        "es": ["DEM", "MDT", "Altitud", "GeoTIFF", "Ráster"]
+        "en": [
+          "DEM",
+          "Elevation",
+          "GeoTIFF",
+          "Raster"
+        ],
+        "es": [
+          "DEM",
+          "MDT",
+          "Altitud",
+          "GeoTIFF",
+          "Ráster"
+        ]
+      }
+    },
+    {
+      "file": "XYZ.zip",
+      "name": {
+        "es": "Test",
+        "en": "Test"
+      },
+      "date": "2020-10-10T10:10Z",
+      "keywords": {
+        "es": [
+          "test"
+        ],
+        "en": [
+          "test"
+        ]
+      },
+      "description": {
+        "es": "test",
+        "en": "test"
+      },
+      "tiles": "test",
+      "tileInfo": {
+        "type": "raster"
       }
     }
   ]
