@@ -421,30 +421,6 @@
           "Vector"
         ]
       }
-    },
-    {
-      "file": "XYZ.zip",
-      "name": {
-        "es": "testting",
-        "en": "testting"
-      },
-      "date": "2020-07-20T10:10Z",
-      "keywords": {
-        "es": [
-          "zzz"
-        ],
-        "en": [
-          "sss"
-        ]
-      },
-      "description": {
-        "es": "sadasd",
-        "en": "sfsdf"
-      },
-      "tiles": "test",
-      "tileInfo": {
-        "type": "raster"
-      }
     }
   ]
 }
