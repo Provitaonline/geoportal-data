@@ -203,41 +203,6 @@
     },
     {
       "name": {
-        "es": "give me another test",
-        "en": "another test"
-      },
-      "file": "ANP.zip",
-      "date": "2020-10-10T10:10Z",
-      "keywords": {
-        "es": [
-          "test"
-        ],
-        "en": [
-          "test"
-        ]
-      },
-      "description": {
-        "es": "test",
-        "en": "test"
-      },
-      "tiles": "test",
-      "tileInfo": {
-        "type": "vector",
-        "displayAttribute": "attr",
-        "style": {
-          "type": "line",
-          "paint": {
-            "line-color": "#fe4567",
-            "line-width": "0.5"
-          },
-          "id": "test",
-          "source": "test",
-          "source-layer": "test"
-        }
-      }
-    },
-    {
-      "name": {
         "en": "Hydrography",
         "es": "Hidrografía"
       },
