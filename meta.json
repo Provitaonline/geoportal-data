@@ -369,7 +369,8 @@
             "line-color": "#774d3a",
             "line-width": 1
           }
-        }
+        },
+        "skipAutoGen": true
       },
       "keywords": {
         "en": [
