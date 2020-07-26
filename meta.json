@@ -11,6 +11,7 @@
       },
       "date": "2020-06-01T07:00Z",
       "file": "Vialidad.zip",
+      "format": "shapefile",
       "tiles": "vialidad",
       "tileInfo": {
         "type": "vector",
@@ -51,6 +52,7 @@
       },
       "date": "2020-06-01T07:00Z",
       "file": "Municipios.zip",
+      "format": "shapefile",
       "tiles": "municipios",
       "tileInfo": {
         "type": "vector",
@@ -92,6 +94,7 @@
       },
       "date": "2020-06-01",
       "file": "Hidrografia.zip",
+      "format": "shapefile",
       "tiles": "hidrografia",
       "tileInfo": {
         "type": "vector",
@@ -131,6 +134,7 @@
       },
       "date": "2020-06-01T07:00Z",
       "file": "Estados.zip",
+      "format": "shapefile",
       "tiles": "estados",
       "tileInfo": {
         "type": "vector",
@@ -171,6 +175,7 @@
       },
       "date": "2020-06-01T07:00Z",
       "file": "Ecosistemas.zip",
+      "format": "shapefile",
       "tiles": "ecosistemas",
       "tileInfo": {
         "type": "vector",
@@ -224,6 +229,7 @@
       },
       "date": "2020-06-01T07:00Z",
       "file": "Cuencas.zip",
+      "format": "shapefile",
       "tiles": "cuencas",
       "tileInfo": {
         "type": "vector",
@@ -264,6 +270,7 @@
       },
       "date": "2020-06-01T07:00Z",
       "file": "ANP.zip",
+      "format": "shapefile",
       "tiles": "anp",
       "tileInfo": {
         "type": "vector",
@@ -328,6 +335,7 @@
       },
       "date": "2020-06-01T07:00Z",
       "file": "Bosques.tif",
+      "format": "geotiff",
       "tiles": "bosques",
       "tileInfo": {
         "type": "raster"
@@ -356,6 +364,7 @@
       },
       "date": "2020-06-01T07:00Z",
       "file": "DEM_30m.tif",
+      "format": "geotiff",
       "tiles": "contour",
       "tileInfo": {
         "type": "vector",
