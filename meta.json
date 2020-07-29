@@ -338,7 +338,17 @@
       "format": "geotiff",
       "tiles": "bosques",
       "tileInfo": {
-        "type": "raster"
+        "type": "raster",
+        "colorTable": [
+          [
+            0,
+            "#0000"
+          ],
+          [
+            1,
+            "#169016FF"
+          ]
+        ]
       },
       "keywords": {
         "en": [
