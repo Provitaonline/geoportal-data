@@ -437,7 +437,7 @@
           "type": "line",
           "paint": {
             "line-color": "#484848",
-            "line-width": "2"
+            "line-width": 2
           },
           "id": "vialidad",
           "source": "vialidad",
