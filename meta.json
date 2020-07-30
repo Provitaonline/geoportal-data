@@ -2,42 +2,41 @@
   "collection": [
     {
       "name": {
-        "en": "Roads",
-        "es": "Vialidad"
+        "en": "Forests",
+        "es": "Bosques"
       },
       "description": {
-        "en": "This is a test description, for testing",
-        "es": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
+        "en": "This is a test description",
+        "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
       },
       "date": "2020-06-01T07:00Z",
-      "file": "Vialidad.zip",
-      "format": "shapefile",
-      "tiles": "vialidad",
+      "file": "Bosques.tif",
+      "format": "geotiff",
+      "tiles": "bosques",
       "tileInfo": {
-        "type": "vector",
-        "displayAttribute": "leyenda",
-        "style": {
-          "id": "vialidad",
-          "type": "line",
-          "source": "vialidad",
-          "source-layer": "vialidad",
-          "paint": {
-            "line-color": "#484848",
-            "line-width": 2
-          }
-        }
+        "type": "raster",
+        "colorTable": [
+          [
+            0,
+            "#0000"
+          ],
+          [
+            1,
+            "#169017FF"
+          ]
+        ],
+        "gradient": true
       },
-      "thumb": "Vialidad.png",
       "keywords": {
         "en": [
-          "Roads",
-          "Shapefile",
-          "Vector"
+          "Forests",
+          "GeoTIFF",
+          "Raster"
         ],
         "es": [
-          "Vialidad",
-          "Shapefile",
-          "Vector"
+          "Bosques",
+          "GeoTIFF",
+          "Ráster"
         ]
       }
     },
