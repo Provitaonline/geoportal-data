@@ -1,69 +1,43 @@
 {
   "collection": [
     {
-      "file": "ANP.zip",
+      "file": "Bosques.tif",
       "name": {
-        "es": "Áreas Naturales Protegidas",
-        "en": "Protected Natural Areas"
+        "es": "Bosques",
+        "en": "Forests"
       },
       "date": "2020-06-01T07:00Z",
       "keywords": {
         "es": [
-          "ANP",
-          "Áreas protegidas",
-          "Shapefile",
-          "Vector"
+          "Bosques",
+          "GeoTIFF",
+          "Ráster"
         ],
         "en": [
-          "PNA",
-          "Protected areas",
-          "Shapefile",
-          "Vector"
+          "Forests",
+          "GeoTIFF",
+          "Raster"
         ]
       },
       "description": {
-        "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? - Test test test",
-        "en": "This is a test description"
+        "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Test",
+        "en": "This is another test description"
       },
-      "tiles": "anp",
+      "tiles": "bosques",
       "tileInfo": {
-        "type": "vector",
-        "displayAttribute": "NOMBRE",
-        "style": {
-          "type": "fill",
-          "paint": {
-            "fill-color": {
-              "type": "categorical",
-              "property": "CATEGORIA",
-              "default": "#760000",
-              "stops": [
-                [
-                  "Parque Nacional",
-                  "#8A2BE2"
-                ],
-                [
-                  "Monumento Natural",
-                  "#7D0056"
-                ],
-                [
-                  "Reserva de Biosfera",
-                  "#554080"
-                ],
-                [
-                  "Reserva Forestal",
-                  "#6D8059"
-                ]
-              ]
-            },
-            "fill-opacity": 0.5,
-            "fill-outline-color": "#000"
-          },
-          "id": "anp",
-          "source": "anp",
-          "source-layer": "anp"
-        }
+        "type": "raster",
+        "colorTable": [
+          [
+            0,
+            "#0000"
+          ],
+          [
+            1,
+            "#169017FF"
+          ]
+        ]
       },
-      "format": "shapefile"
+      "format": "geotiff"
     }
   ]
 }
