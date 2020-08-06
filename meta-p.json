@@ -1,5 +1,70 @@
 {
   "collection": [
+        {
+      "file": "ANP.zip",
+      "name": {
+        "es": "Áreas Naturales Protegidas",
+        "en": "Protected Natural Areas"
+      },
+      "date": "2020-06-01T07:00Z",
+      "keywords": {
+        "es": [
+          "ANP",
+          "Áreas protegidas",
+          "Shapefile",
+          "Vector"
+        ],
+        "en": [
+          "PNA",
+          "Protected areas",
+          "Shapefile",
+          "Vector"
+        ]
+      },
+      "description": {
+        "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? - Test test test",
+        "en": "This is a test description"
+      },
+      "tiles": "anp",
+      "tileInfo": {
+        "type": "vector",
+        "displayAttribute": "NOMBRE",
+        "style": {
+          "type": "fill",
+          "paint": {
+            "fill-color": {
+              "type": "categorical",
+              "property": "CATEGORIA",
+              "default": "#760000",
+              "stops": [
+                [
+                  "Parque Nacional",
+                  "#8A2BE2"
+                ],
+                [
+                  "Monumento Natural",
+                  "#7D0056"
+                ],
+                [
+                  "Reserva de Biosfera",
+                  "#554080"
+                ],
+                [
+                  "Reserva Forestal",
+                  "#6D8059"
+                ]
+              ]
+            },
+            "fill-opacity": 0.5,
+            "fill-outline-color": "#000"
+          },
+          "id": "anp",
+          "source": "anp",
+          "source-layer": "anp"
+        }
+      },
+      "format": "shapefile"
+    },
     {
       "file": "Bosques.tif",
       "name": {
