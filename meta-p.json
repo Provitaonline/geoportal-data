@@ -315,7 +315,7 @@
           "type": "line",
           "paint": {
             "line-color": "#005c99",
-            "line-width": "2"
+            "line-width": 2
           },
           "id": "hidrografia",
           "source": "hidrografia",
