@@ -283,6 +283,46 @@
         }
       },
       "format": "shapefile"
+    },
+    {
+      "file": "Hidrografia.zip",
+      "name": {
+        "es": "Hidrografía",
+        "en": "Hydrography"
+      },
+      "date": "2020-06-01T00:00Z",
+      "keywords": {
+        "es": [
+          "Hidrografía",
+          "Shapefile",
+          "Vector"
+        ],
+        "en": [
+          "Hydrography",
+          "Shapefile",
+          "Vector"
+        ]
+      },
+      "description": {
+        "es": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+        "en": "This is a test description"
+      },
+      "tiles": "hidrografia",
+      "tileInfo": {
+        "type": "vector",
+        "displayAttribute": "Nombre",
+        "style": {
+          "type": "line",
+          "paint": {
+            "line-color": "#005c99",
+            "line-width": "2"
+          },
+          "id": "hidrografia",
+          "source": "hidrografia",
+          "source-layer": "hidrografia"
+        }
+      },
+      "format": "shapefile"
     }
   ]
 }
