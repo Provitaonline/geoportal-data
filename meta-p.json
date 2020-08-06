@@ -35,7 +35,7 @@
           "type": "line",
           "paint": {
             "line-color": "#774d3a",
-            "line-width": "1"
+            "line-width": 1
           },
           "id": "contour",
           "source": "contour",
