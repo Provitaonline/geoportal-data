@@ -323,6 +323,47 @@
         }
       },
       "format": "shapefile"
+    },
+    {
+      "file": "Municipios.zip",
+      "name": {
+        "es": "Municipios",
+        "en": "Municipalities"
+      },
+      "keywords": {
+        "es": [
+          "Municipios",
+          "Shapefile",
+          "Vector"
+        ],
+        "en": [
+          "Municipalities",
+          "Shapefile",
+          "Vector"
+        ]
+      },
+      "date": "2020-06-01T07:00Z",
+      "description": {
+        "es": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "en": "This is a test description"
+      },
+      "tiles": "municipios",
+      "tileInfo": {
+        "type": "vector",
+        "displayAttribute": "NAM",
+        "style": {
+          "type": "fill",
+          "paint": {
+            "fill-color": "#FFA500",
+            "fill-opacity": 0.5,
+            "fill-outline-color": "#000"
+          },
+          "id": "municipios",
+          "source": "municipios",
+          "source-layer": "municipios"
+        }
+      },
+      "format": "shapefile"
     }
   ]
 }
