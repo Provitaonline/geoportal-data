@@ -1,69 +1,48 @@
 {
   "collection": [
     {
-      "file": "ANP.zip",
+      "file": "DEM_30m.tif",
       "name": {
-        "es": "Áreas Naturales Protegidas",
-        "en": "Protected Natural Areas"
+        "es": "Modelo digital del terreno",
+        "en": "Digital elevation model"
       },
       "date": "2020-06-01T07:00Z",
       "keywords": {
         "es": [
-          "ANP",
-          "Áreas protegidas",
-          "Shapefile",
-          "Vector"
+          "DEM",
+          "MDT",
+          "Altitud",
+          "GeoTIFF",
+          "Ráster"
         ],
         "en": [
-          "PNA",
-          "Protected areas",
-          "Shapefile",
-          "Vector"
+          "DEM",
+          "Elevation",
+          "GeoTIFF",
+          "Raster"
         ]
       },
       "description": {
-        "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? - Test test test",
+        "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
         "en": "This is a test description"
       },
-      "tiles": "anp",
+      "tiles": "contour",
       "tileInfo": {
         "type": "vector",
-        "displayAttribute": "NOMBRE",
+        "skipAutoGen": true,
+        "displayAttribute": "ELEV",
         "style": {
-          "type": "fill",
+          "type": "line",
           "paint": {
-            "fill-color": {
-              "type": "categorical",
-              "property": "CATEGORIA",
-              "default": "#760000",
-              "stops": [
-                [
-                  "Parque Nacional",
-                  "#8A2BE2"
-                ],
-                [
-                  "Monumento Natural",
-                  "#7D0056"
-                ],
-                [
-                  "Reserva de Biosfera",
-                  "#554080"
-                ],
-                [
-                  "Reserva Forestal",
-                  "#6D8059"
-                ]
-              ]
-            },
-            "fill-opacity": 0.5,
-            "fill-outline-color": "#000"
+            "line-color": "#774d3a",
+            "line-width": "1"
           },
-          "id": "anp",
-          "source": "anp",
-          "source-layer": "anp"
+          "id": "contour",
+          "source": "contour",
+          "source-layer": "contour"
         }
       },
-      "format": "shapefile"
+      "format": "geotiff"
     },
     {
       "file": "Bosques.tif",
