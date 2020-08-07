@@ -244,7 +244,8 @@
           "source-layer": "ecosistemas"
         }
       },
-      "format": "shapefile"
+      "format": "shapefile",
+      "source": "Provita"
     },
     {
       "file": "Estados.zip",
