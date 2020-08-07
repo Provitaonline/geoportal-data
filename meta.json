@@ -367,7 +367,8 @@
           "source-layer": "municipios"
         }
       },
-      "format": "shapefile"
+      "format": "shapefile",
+      "source": "IGVSB"
     },
     {
       "file": "Vialidad.zip",
