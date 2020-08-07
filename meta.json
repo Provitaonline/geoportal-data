@@ -108,7 +108,8 @@
           "source-layer": "contour"
         }
       },
-      "format": "geotiff"
+      "format": "geotiff",
+      "source": "NASA"
     },
     {
       "file": "Bosques.tif",
