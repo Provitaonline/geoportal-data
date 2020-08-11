@@ -3,7 +3,7 @@
     {
       "name": {
         "en": "Protected Natural Areas",
-        "es": "Áreas Naturales Protegidas"
+        "es": "Ãreas Naturales Protegidas"
       },
       "description": {
         "en": "This is a test description, for testing, yes it is, hmmmm, yep, it is",
@@ -59,7 +59,7 @@
         ],
         "es": [
           "ANP",
-          "Áreas protegidas",
+          "Ãreas protegidas",
           "Shapefile",
           "Vector"
         ]
@@ -79,7 +79,7 @@
           "MDT",
           "Altitud",
           "GeoTIFF",
-          "Ráster"
+          "RÃ¡ster"
         ],
         "en": [
           "DEM",
@@ -122,7 +122,7 @@
         "es": [
           "Bosques",
           "GeoTIFF",
-          "Ráster"
+          "RÃ¡ster"
         ],
         "en": [
           "Forests",
@@ -293,13 +293,13 @@
     {
       "file": "Hidrografia.zip",
       "name": {
-        "es": "Hidrografía",
+        "es": "HidrografÃ­a",
         "en": "Hydrography"
       },
       "date": "2020-06-01T00:00Z",
       "keywords": {
         "es": [
-          "Hidrografía",
+          "HidrografÃ­a",
           "Shapefile",
           "Vector"
         ],
