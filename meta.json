@@ -67,45 +67,49 @@
       "source": "Provita"
     },
     {
-      "file": "Vialidad.zip",
+      "file": "DEM_30m.tif",
       "name": {
-        "es": "Vialidad",
-        "en": "Roads"
+        "es": "Modelo digital del terreno",
+        "en": "Digital elevation model"
       },
       "date": "2020-06-01T07:00Z",
-      "description": {
-        "es": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
-        "en": "Test description"
+      "keywords": {
+        "es": [
+          "DEM",
+          "MDT",
+          "Altitud",
+          "GeoTIFF",
+          "Ráster"
+        ],
+        "en": [
+          "DEM",
+          "Elevation",
+          "GeoTIFF",
+          "Raster"
+        ]
       },
-      "tiles": "vialidad",
+      "description": {
+        "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+        "en": "This is a test description"
+      },
+      "tiles": "contour",
       "tileInfo": {
         "type": "vector",
-        "displayAttribute": "leyenda",
+        "skipAutoGen": true,
+        "displayAttribute": "ELEV",
         "style": {
           "type": "line",
           "paint": {
-            "line-color": "#484848",
-            "line-width": 2
+            "line-color": "#774d3a",
+            "line-width": 1
           },
-          "id": "vialidad",
-          "source": "vialidad",
-          "source-layer": "vialidad"
+          "id": "contour",
+          "source": "contour",
+          "source-layer": "contour"
         }
       },
-      "format": "shapefile",
-      "source": "Provita",
-      "keywords": {
-        "es": [
-          "Vialidad",
-          "Shapefile",
-          "Vector"
-        ],
-        "en": [
-          "Roads",
-          "Shapefile",
-          "Vector"
-        ]
-      }
+      "format": "geotiff",
+      "source": "NASA"
     },
     {
       "file": "Bosques.tif",
