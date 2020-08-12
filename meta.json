@@ -379,14 +379,6 @@
         "es": "Vialidad",
         "en": "Roads"
       },
-      "keywords": {
-        "es": [
-          "Vialidad"
-        ],
-        "en": [
-          "Roads"
-        ]
-      },
       "date": "2020-06-01T07:00Z",
       "description": {
         "es": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
@@ -408,7 +400,19 @@
         }
       },
       "format": "shapefile",
-      "source": "Provita"
+      "source": "Provita",
+      "keywords": {
+        "es": [
+          "Vialidad",
+          "Shapefile",
+          "Vector"
+        ],
+        "en": [
+          "Roads",
+          "Shapefile",
+          "Vector"
+        ]
+      }
     }
   ]
 }
