@@ -54,7 +54,7 @@
           "MDT",
           "Altitud",
           "GeoTIFF",
-          "RÃ¡ster"
+          "RÃÂ¡ster"
         ],
         "en": [
           "DEM",
@@ -97,7 +97,7 @@
         "es": [
           "Bosques",
           "GeoTIFF",
-          "RÃ¡ster"
+          "RÃÂ¡ster"
         ],
         "en": [
           "Forests",
@@ -268,13 +268,13 @@
     {
       "file": "Hidrografia.zip",
       "name": {
-        "es": "HidrografÃ­a",
+        "es": "HidrografÃÂ­a",
         "en": "Hydrography"
       },
       "date": "2020-06-01T00:00Z",
       "keywords": {
         "es": [
-          "HidrografÃ­a",
+          "HidrografÃÂ­a",
           "Shapefile",
           "Vector"
         ],
