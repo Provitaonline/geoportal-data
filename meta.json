@@ -409,33 +409,6 @@
       },
       "format": "shapefile",
       "source": "Provita"
-    },
-    {
-      "file": "BTest.tif",
-      "name": {
-        "es": "Test",
-        "en": "Test"
-      },
-      "source": "Test",
-      "date": "2020-10-10T10:19Z",
-      "keywords": {
-        "es": [
-          "test"
-        ],
-        "en": [
-          "test"
-        ]
-      },
-      "description": {
-        "es": "Test",
-        "en": "Test"
-      },
-      "tiles": "test",
-      "tileInfo": {
-        "skipAutoGen": true,
-        "type": "raster"
-      },
-      "format": "geotiff"
     }
   ]
 }
