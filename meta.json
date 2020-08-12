@@ -127,7 +127,8 @@
         "en": [
           "Forests",
           "GeoTIFF",
-          "Raster"
+          "Raster",
+          "Test"
         ]
       },
       "description": {
