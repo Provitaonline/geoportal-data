@@ -3,7 +3,7 @@
     {
       "file": "Hidrografia.zip",
       "name": {
-        "es": "Hidrografía",
+        "es": "HidrografÃ­a",
         "en": "Hydrography"
       },
       "date": "2020-06-01T00:00Z",
@@ -14,7 +14,7 @@
           "Vector"
         ],
         "es": [
-          "Hidrografía",
+          "HidrografÃ­a",
           "Shapefile",
           "Vector"
         ]
@@ -54,7 +54,7 @@
           "MDT",
           "Altitud",
           "GeoTIFF",
-          "RÃÂ¡ster"
+          "RÃÂÃÂ¡ster"
         ],
         "en": [
           "DEM",
@@ -94,15 +94,15 @@
       },
       "date": "2020-06-01T07:00Z",
       "keywords": {
-        "es": [
-          "Bosques",
-          "GeoTIFF",
-          "RÃÂ¡ster"
-        ],
         "en": [
           "Forests",
           "GeoTIFF",
           "Raster"
+        ],
+        "es": [
+          "Bosques",
+          "GeoTIFF",
+          "Ráster"
         ]
       },
       "description": {
@@ -268,13 +268,13 @@
     {
       "file": "Hidrografia.zip",
       "name": {
-        "es": "HidrografÃÂ­a",
+        "es": "HidrografÃÂÃÂ­a",
         "en": "Hydrography"
       },
       "date": "2020-06-01T00:00Z",
       "keywords": {
         "es": [
-          "HidrografÃÂ­a",
+          "HidrografÃÂÃÂ­a",
           "Shapefile",
           "Vector"
         ],
