@@ -404,11 +404,13 @@
       "keywords": {
         "es": [
           "Vialidad",
-          "Shapefile"
+          "Shapefile",
+          "Vector"
         ],
         "en": [
           "Roads",
-          "Shapefile"
+          "Shapefile",
+          "Vector"
         ]
       }
     }
