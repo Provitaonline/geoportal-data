@@ -447,7 +447,8 @@
             1,
             "#169017ff"
           ]
-        ]
+        ],
+        "gradient": true
       },
       "format": "geotiff"
     }
