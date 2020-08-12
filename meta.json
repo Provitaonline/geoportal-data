@@ -402,13 +402,14 @@
       "format": "shapefile",
       "source": "Provita",
       "keywords": {
-        "es": [
-          "Vialidad",
-          "Shapefile"
-        ],
         "en": [
           "Roads",
           "Shapefile"
+        ],
+        "es": [
+          "Vialidad",
+          "Shapefile",
+          "Vector"
         ]
       }
     }
