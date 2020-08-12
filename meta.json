@@ -67,49 +67,46 @@
       "source": "Provita"
     },
     {
-      "file": "DEM_30m.tif",
+      "file": "Vialidad.zip",
       "name": {
-        "es": "Modelo digital del terreno",
-        "en": "Digital elevation model"
+        "es": "Vialidad",
+        "en": "Roads"
       },
       "date": "2020-06-01T07:00Z",
-      "keywords": {
-        "es": [
-          "DEM",
-          "MDT",
-          "Altitud",
-          "GeoTIFF",
-          "Ráster"
-        ],
-        "en": [
-          "DEM",
-          "Elevation",
-          "GeoTIFF",
-          "Raster"
-        ]
-      },
       "description": {
-        "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
-        "en": "This is a test description"
+        "es": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "en": "Test description"
       },
-      "tiles": "contour",
+      "tiles": "vialidad",
       "tileInfo": {
         "type": "vector",
-        "skipAutoGen": true,
-        "displayAttribute": "ELEV",
+        "displayAttribute": "leyenda",
         "style": {
           "type": "line",
           "paint": {
-            "line-color": "#774d3a",
-            "line-width": 1
+            "line-color": "#484848",
+            "line-width": 2
           },
-          "id": "contour",
-          "source": "contour",
-          "source-layer": "contour"
+          "id": "vialidad",
+          "source": "vialidad",
+          "source-layer": "vialidad"
         }
       },
-      "format": "geotiff",
-      "source": "NASA"
+      "format": "shapefile",
+      "source": "Provita",
+      "keywords": {
+        "es": [
+          "Vialidad",
+          "Shapefile",
+          "Vector"
+        ],
+        "en": [
+          "Roads",
+          "Shapefile",
+          "Vector",
+          "Test"
+        ]
+      }
     },
     {
       "file": "Bosques.tif",
@@ -379,6 +376,14 @@
         "es": "Vialidad",
         "en": "Roads"
       },
+      "keywords": {
+        "es": [
+          "Vialidad"
+        ],
+        "en": [
+          "Roads"
+        ]
+      },
       "date": "2020-06-01T07:00Z",
       "description": {
         "es": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
@@ -400,19 +405,7 @@
         }
       },
       "format": "shapefile",
-      "source": "Provita",
-      "keywords": {
-        "es": [
-          "Vialidad",
-          "Shapefile",
-          "Vector"
-        ],
-        "en": [
-          "Roads",
-          "Shapefile",
-          "Vector"
-        ]
-      }
+      "source": "Provita"
     }
   ]
 }
