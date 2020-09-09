@@ -1,6 +1,6 @@
 {
   "id": "usersurvey",
-  "version": 3,
+  "version": 4,
   "fields": [
     {
       "fieldname": "test1",
@@ -29,6 +29,14 @@
         "en": "How would you make it even better?",
         "es": "¿Cómo lo mejorarías aun más?"
       }
+    },
+    {
+      "label": {
+        "en": "Everything ok?",
+        "es": "Todo bien?"
+      },
+      "fieldname": "Pregunta 3",
+      "type": "text"
     }
   ]
 }
