@@ -29,14 +29,6 @@
         "en": "How would you make it even better?",
         "es": "¿Cómo lo mejorarías aun más?"
       }
-    },
-    {
-      "label": {
-        "en": "How are you doing?",
-        "es": "Que tal?"
-      },
-      "fieldname": "Pregunta 3",
-      "type": "text"
     }
   ]
 }
