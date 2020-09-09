@@ -1,6 +1,6 @@
 {
   "id": "usersurvey",
-  "version": 2,
+  "version": 3,
   "fields": [
     {
       "fieldname": "test1",
@@ -28,26 +28,6 @@
       "label": {
         "en": "How would you make it even better?",
         "es": "¿Cómo lo mejorarías aun más?"
-      }
-    },
-    {
-      "label": {
-        "en": "How are you doing?",
-        "es": "Como estas?"
-      },
-      "fieldname": "Pregunta 3",
-      "type": "select",
-      "options": {
-        "en": [
-          "Good",
-          "Bad",
-          "So so"
-        ],
-        "es": [
-          "Bien",
-          "Mal",
-          "Mas o Menos"
-        ]
       }
     }
   ]
