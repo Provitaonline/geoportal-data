@@ -8,5 +8,15 @@
       "en": "Nothing",
       "es": "Eso no es nada"
     }
+  },
+  {
+    "question": {
+      "en": "And what is this other thing?",
+      "es": "¿Y esto otro que es?"
+    },
+    "answer": {
+      "en": "Also nothing",
+      "es": "Tampoco nada"
+    }
   }
 ]
