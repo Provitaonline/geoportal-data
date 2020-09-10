@@ -9,7 +9,7 @@
         "en": "This is a test description, for testing, yes it is, hmmmm, yep, it is",
         "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
       },
-      "date": "2020-06-01T07:00Z",
+      "date": "2020-06-02T07:00:00.000Z",
       "file": "ANP.zip",
       "format": "shapefile",
       "tiles": "anp",
