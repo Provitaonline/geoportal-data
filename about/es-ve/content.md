@@ -7,5 +7,3 @@ Este Geoportal fue creado como una iniciativa de [Provita](https://www.provita.o
 La idea es que este material pueda ser consultado y utilizado por quien quiera, respetando los derechos de autor asociados. Esto permitirá contribuir con el trabajo de más personas en sus diferentes ámbitos de experticia. A su vez, en el geoportal podrán encontrar información geoespacial base para diversas consultas o análisis generados por otras instituciones pero adaptada para Venezuela.
 
 Esperamos que la información aquí publicada sea de utilidad para muchos de ustedes. Cualquier sugerencia, comentario o aporte que puedan tener no duden en [contactarnos](/contact).
-
-Y...
