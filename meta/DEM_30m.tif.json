@@ -1,0 +1,45 @@
+{
+  "file": "DEM_30m.tif",
+  "name": {
+    "es": "Modelo digital del terreno",
+    "en": "Digital elevation model"
+  },
+  "date": "2020-06-01T07:00Z",
+  "keywords": {
+    "es": [
+      "DEM",
+      "MDT",
+      "Altitud",
+      "GeoTIFF",
+      "Ráster"
+    ],
+    "en": [
+      "DEM",
+      "Elevation",
+      "GeoTIFF",
+      "Raster"
+    ]
+  },
+  "description": {
+    "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+    "en": "This is a test description"
+  },
+  "tiles": "contour",
+  "tileInfo": {
+    "type": "vector",
+    "skipAutoGen": true,
+    "displayAttribute": "ELEV",
+    "style": {
+      "type": "line",
+      "paint": {
+        "line-color": "#774d3a",
+        "line-width": 1
+      },
+      "id": "contour",
+      "source": "contour",
+      "source-layer": "contour"
+    }
+  },
+  "format": "geotiff",
+  "source": "NASA"
+}
