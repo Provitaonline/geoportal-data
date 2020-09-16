@@ -1,0 +1,37 @@
+{
+  "file": "XYZ.zip",
+  "name": {
+    "es": "test",
+    "en": "test"
+  },
+  "source": "test",
+  "keywords": {
+    "es": [
+      "test"
+    ],
+    "en": [
+      "test"
+    ]
+  },
+  "description": {
+    "es": "test",
+    "en": "test"
+  },
+  "tiles": "test",
+  "tileInfo": {
+    "type": "vector",
+    "displayAttribute": "test",
+    "style": {
+      "type": "line",
+      "paint": {
+        "line-color": "#555555",
+        "line-width": 0.5
+      },
+      "id": "test",
+      "source": "test",
+      "source-layer": "test"
+    }
+  },
+  "format": "shapefile",
+  "date": "2020-09-01T07:00:00.000Z"
+}
