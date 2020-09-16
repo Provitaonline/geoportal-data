@@ -1,0 +1,27 @@
+{
+  "file": "Bosques.tif",
+  "name": {
+    "es": "Test again",
+    "en": "Test again"
+  },
+  "source": "test",
+  "keywords": {
+    "es": [
+      "Raster"
+    ],
+    "en": [
+      "Raster"
+    ]
+  },
+  "description": {
+    "es": "test",
+    "en": "test"
+  },
+  "tiles": "bosques",
+  "tileInfo": {
+    "type": "raster",
+    "skipAutoGen": true
+  },
+  "format": "geotiff",
+  "date": "2020-09-07T07:00:00.000Z"
+}
