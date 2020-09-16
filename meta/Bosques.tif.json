@@ -17,10 +17,20 @@
     "es": "test updated",
     "en": "test"
   },
-  "tiles": "bosques",
+  "tiles": "test",
   "tileInfo": {
     "type": "raster",
-    "skipAutoGen": true
+    "skipAutoGen": false,
+    "colorTable": [
+      [
+        0,
+        "#0000"
+      ],
+      [
+        1,
+        "#169017FE"
+      ]
+    ]
   },
   "format": "geotiff",
   "date": "2020-09-07T07:00:00.000Z"
