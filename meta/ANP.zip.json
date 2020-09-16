@@ -1,0 +1,66 @@
+{
+  "name": {
+    "en": "Protected Natural Areas",
+    "es": "Áreas Naturales Protegidas"
+  },
+  "description": {
+    "en": "This is a test description, for testing, yes it is, hmmmm, yep, it is",
+    "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+  },
+  "date": "2020-06-02T07:00:00.000Z",
+  "file": "ANP.zip",
+  "format": "shapefile",
+  "tiles": "anp",
+  "tileInfo": {
+    "type": "vector",
+    "displayAttribute": "NOMBRE",
+    "style": {
+      "id": "anp",
+      "type": "fill",
+      "source": "anp",
+      "source-layer": "anp",
+      "paint": {
+        "fill-color": {
+          "property": "CATEGORIA",
+          "type": "categorical",
+          "default": "#760000",
+          "stops": [
+            [
+              "Parque Nacional",
+              "#8A2BE2"
+            ],
+            [
+              "Monumento Natural",
+              "#7D0056"
+            ],
+            [
+              "Reserva de Biosfera",
+              "#554080"
+            ],
+            [
+              "Reserva Forestal",
+              "#6D8059"
+            ]
+          ]
+        },
+        "fill-outline-color": "#000",
+        "fill-opacity": 0.5
+      }
+    }
+  },
+  "keywords": {
+    "en": [
+      "PNA",
+      "Protected areas",
+      "Shapefile",
+      "Vector"
+    ],
+    "es": [
+      "ANP",
+      "Áreas protegidas",
+      "Shapefile",
+      "Vector"
+    ]
+  },
+  "source": "Provita"
+}
