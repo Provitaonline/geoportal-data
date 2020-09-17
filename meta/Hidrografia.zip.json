@@ -4,7 +4,7 @@
     "es": "Hidrografía",
     "en": "Hydrography"
   },
-  "date": "2020-06-01T00:00Z",
+  "date": "2020-06-01T00:00:00.000Z",
   "keywords": {
     "es": [
       "Hidrografía",
@@ -19,23 +19,10 @@
   },
   "description": {
     "es": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
-    "en": "This is a test description"
+    "en": "This is a test description - test"
   },
   "tiles": "hidrografia",
-  "tileInfo": {
-    "type": "vector",
-    "displayAttribute": "Nombre",
-    "style": {
-      "type": "line",
-      "paint": {
-        "line-color": "#005c99",
-        "line-width": 2
-      },
-      "id": "hidrografia",
-      "source": "hidrografia",
-      "source-layer": "hidrografia"
-    }
-  },
+  "tileInfo": "{\"type\":\"vector\",\"displayAttribute\":\"Nombre\",\"style\":{\"type\":\"line\",\"paint\":{\"line-color\":\"#005c99\",\"line-width\":2},\"id\":\"hidrografia\",\"source\":\"hidrografia\",\"source-layer\":\"hidrografia\"}}",
   "format": "shapefile",
   "source": "Provita"
 }
