@@ -1,0 +1,55 @@
+{
+  "file": "Ecosistemas.zip",
+  "name": {
+    "es": "Ecosistemas",
+    "en": "Ecosystems"
+  },
+  "date": "2020-06-01T07:00Z",
+  "keywords": {
+    "es": [
+      "Ecosistemas",
+      "Shapefile",
+      "Vector"
+    ],
+    "en": [
+      "Ecosystems",
+      "Shapefile",
+      "Vector"
+    ]
+  },
+  "description": {
+    "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+    "en": "This is a test description"
+  },
+  "tiles": "ecosistemas",
+  "tileInfo": {
+    "type": "vector",
+    "displayAttribute": "N_ecosiste",
+    "style": {
+      "type": "fill",
+      "paint": {
+        "fill-color": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "get",
+            "N_ecosiste"
+          ],
+          0,
+          "#daf8bd",
+          67,
+          "#13570e"
+        ],
+        "fill-opacity": 0.5,
+        "fill-outline-color": "#000"
+      },
+      "id": "ecosistemas",
+      "source": "ecosistemas",
+      "source-layer": "ecosistemas"
+    }
+  },
+  "format": "shapefile",
+  "source": "Provita"
+}
