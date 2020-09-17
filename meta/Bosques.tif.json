@@ -1,0 +1,40 @@
+{
+  "file": "Bosques.tif",
+  "name": {
+    "es": "Bosques",
+    "en": "Forests"
+  },
+  "date": "2020-06-01T07:00Z",
+  "keywords": {
+    "es": [
+      "Bosques",
+      "GeoTIFF",
+      "Ráster"
+    ],
+    "en": [
+      "Forests",
+      "GeoTIFF",
+      "Raster"
+    ]
+  },
+  "description": {
+    "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Test",
+    "en": "This is another test description"
+  },
+  "tiles": "bosques",
+  "tileInfo": {
+    "type": "raster",
+    "colorTable": [
+      [
+        0,
+        "#0000"
+      ],
+      [
+        1,
+        "#169017FE"
+      ]
+    ]
+  },
+  "format": "geotiff",
+  "source": "Provita"
+}
