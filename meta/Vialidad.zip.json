@@ -1,0 +1,41 @@
+{
+  "file": "Vialidad.zip",
+  "name": {
+    "es": "Vialidad",
+    "en": "Roads"
+  },
+  "date": "2020-06-01T07:00Z",
+  "description": {
+    "es": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+    "en": "Test description test"
+  },
+  "tiles": "vialidad",
+  "tileInfo": {
+    "type": "vector",
+    "displayAttribute": "leyenda",
+    "style": {
+      "type": "line",
+      "paint": {
+        "line-color": "#484848",
+        "line-width": 2
+      },
+      "id": "vialidad",
+      "source": "vialidad",
+      "source-layer": "vialidad"
+    }
+  },
+  "format": "shapefile",
+  "source": "Provita",
+  "keywords": {
+    "es": [
+      "Vialidad",
+      "Shapefile",
+      "Vector"
+    ],
+    "en": [
+      "Roads",
+      "Shapefile",
+      "Vector"
+    ]
+  }
+}
