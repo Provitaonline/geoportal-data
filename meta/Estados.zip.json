@@ -1,0 +1,42 @@
+{
+  "file": "Estados.zip",
+  "name": {
+    "es": "Estados",
+    "en": "States"
+  },
+  "date": "2020-06-01T07:00Z",
+  "keywords": {
+    "es": [
+      "Estados",
+      "Shapefile",
+      "Vector"
+    ],
+    "en": [
+      "States",
+      "Shapefile",
+      "Vector"
+    ]
+  },
+  "description": {
+    "es": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?",
+    "en": "This is a test description"
+  },
+  "tiles": "estados",
+  "tileInfo": {
+    "type": "vector",
+    "displayAttribute": "NAM",
+    "style": {
+      "type": "fill",
+      "paint": {
+        "fill-color": "#F0E68C",
+        "fill-opacity": 0.5,
+        "fill-outline-color": "#000"
+      },
+      "id": "estados",
+      "source": "estados",
+      "source-layer": "estados"
+    }
+  },
+  "format": "shapefile",
+  "source": "IGVSB"
+}
