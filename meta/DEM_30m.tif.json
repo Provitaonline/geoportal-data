@@ -4,7 +4,7 @@
     "es": "Modelo digital del terreno",
     "en": "Digital elevation model"
   },
-  "date": "2020-06-01T07:00Z",
+  "date": "2020-06-01T07:00:00.000Z",
   "keywords": {
     "es": [
       "DEM",
@@ -22,24 +22,10 @@
   },
   "description": {
     "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
-    "en": "This is a test description"
+    "en": "This is a test description - test"
   },
   "tiles": "contour",
-  "tileInfo": {
-    "type": "vector",
-    "skipAutoGen": true,
-    "displayAttribute": "ELEV",
-    "style": {
-      "type": "line",
-      "paint": {
-        "line-color": "#774d3a",
-        "line-width": 1
-      },
-      "id": "contour",
-      "source": "contour",
-      "source-layer": "contour"
-    }
-  },
+  "tileInfo": "{\"type\":\"vector\",\"skipAutoGen\":true,\"displayAttribute\":\"ELEV\",\"style\":{\"type\":\"line\",\"paint\":{\"line-color\":\"#774d3a\",\"line-width\":1},\"id\":\"contour\",\"source\":\"contour\",\"source-layer\":\"contour\"}}",
   "format": "geotiff",
   "source": "NASA"
 }
