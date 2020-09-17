@@ -4,7 +4,7 @@
     "es": "Bosques",
     "en": "Forests"
   },
-  "date": "2020-06-01T07:00Z",
+  "date": "2020-06-01T07:00:00.000Z",
   "keywords": {
     "es": [
       "Bosques",
@@ -19,22 +19,10 @@
   },
   "description": {
     "es": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Test",
-    "en": "This is another test description"
+    "en": "This is another test description - test"
   },
   "tiles": "bosques",
-  "tileInfo": {
-    "type": "raster",
-    "colorTable": [
-      [
-        0,
-        "#0000"
-      ],
-      [
-        1,
-        "#169017FE"
-      ]
-    ]
-  },
+  "tileInfo": "{\"type\":\"raster\",\"colorTable\":[[0,\"#0000\"],[1,\"#169017FE\"]]}",
   "format": "geotiff",
   "source": "Provita"
 }
