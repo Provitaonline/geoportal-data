@@ -7,6 +7,8 @@ This repository is used to keep the data associated with the [Provita Geoportal]
 * survey-template.json - Definition of download survey questionnaire
 * about (directory) - About page content
 * meta (directory) - Metadata associated with the GIS datasets published by the application
+* news (directory) - News items
+* news/thumbs (directory) - Thumbnails associated with news items
 
 Collaborators on this repository are granted admin access.
 
