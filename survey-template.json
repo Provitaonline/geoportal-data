@@ -1,6 +1,6 @@
 {
   "id": "usersurvey",
-  "version": 6,
+  "version": 7,
   "fields": [
     {
       "fieldname": "test1",
@@ -37,6 +37,24 @@
       },
       "fieldname": "Test",
       "type": "text"
+    },
+    {
+      "label": {
+        "en": "Continue?",
+        "es": "¿Seguimos?"
+      },
+      "fieldname": "test3",
+      "type": "select",
+      "options": {
+        "en": [
+          "Yes",
+          "No"
+        ],
+        "es": [
+          "Si",
+          "No"
+        ]
+      }
     }
   ]
 }
