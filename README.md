@@ -2,6 +2,10 @@
 
 This repository is used to keep the data associated with the [Provita Geoportal](https://github.com/jimmyangel/geoportal) application.
 
+#### Important note: Collaborators should NOT update any of these items directly. Instead, they should use the Geoportal Admin functionality which is designed to ensure the validity, consistency and integrity of the data.
+
+Data items:
+
 * contact.json - Contact info
 * faq.json - Application FAQ content
 * survey-template.json - Definition of download survey questionnaire
