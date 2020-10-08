@@ -44,6 +44,17 @@
         "es": "Si, otra"
       },
       "subject": 0
+    },
+    {
+      "question": {
+        "en": "What are the data features?",
+        "es": "¿Cuales son las características de los datos?"
+      },
+      "answer": {
+        "en": "They are many",
+        "es": "Son muchas"
+      },
+      "subject": 1
     }
   ]
 }
