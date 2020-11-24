@@ -1,0 +1,28 @@
+{
+  "file": "Cuencas_hidrograficas_WGS84.zip",
+  "name": {
+    "es": "Cuencas hidrográficas de la Amazonía venezolana",
+    "en": "Hydrographic basins of the Venezuelan Amazon"
+  },
+  "source": "Provita",
+  "keywords": {
+    "es": [
+      "cuencas",
+      "hidrografía",
+      "amazonas"
+    ],
+    "en": [
+      "basins",
+      "hydrography",
+      "amazon"
+    ]
+  },
+  "description": {
+    "es": "Cuencas hidrográficas de la Amazonía venezolana.",
+    "en": "Hydrographic basins of the Venezuelan Amazon."
+  },
+  "tiles": "cuencas_hidrograficas_wgs84",
+  "tileInfo": "{\"type\":\"vector\",\"displayAttribute\":\"nombre\",\"style\":{\"type\":\"fill\",\"paint\":{\"fill-color\":\"#66ccff\",\"fill-opacity\":0.5,\"fill-outline-color\":\"#000\"},\"id\":\"cuencas_hidrograficas_wgs84\",\"source\":\"cuencas_hidrograficas_wgs84\",\"source-layer\":\"cuencas_hidrograficas_wgs84\"}}",
+  "format": "shapefile",
+  "date": "2020-11-23T08:00:00.000Z"
+}
