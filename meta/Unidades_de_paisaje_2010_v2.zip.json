@@ -16,7 +16,7 @@
     ]
   },
   "description": {
-    "es": "Contiene una clasificación jerárquica de paisajes paisajes vegetales de Venezuela. Los paisajes están clasificados por región, sub-región y sector. Para mayor información, se puede consultar en el <a href=\"https://ecosistemasamenazados.org/unidades\">Libro Rojo de los Ecosistemas Terrestres de Venezuela, 2010</a>.",
+    "es": "Contiene una clasificación jerárquica de paisajes paisajes vegetales de Venezuela. Los paisajes están clasificados por región, sub-región y sector. Para mayor información, se puede consultar el <a href=\"https://ecosistemasamenazados.org/unidades\">Libro Rojo de los Ecosistemas Terrestres de Venezuela, 2010</a>.",
     "en": "Contains a hierarchical classification of vegetation landscapes in Venezuela. Landscapes are classified by region, sub-region and sector. For additional information, see the <a href=\"https://ecosistemasamenazados.org/unidades\">Red Book of Venezuelan Terrestrial Ecosystems, 2010</a>."
   },
   "tiles": "unidades_de_paisaje_2010_v2",
