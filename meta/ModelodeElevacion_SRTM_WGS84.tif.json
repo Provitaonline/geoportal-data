@@ -22,7 +22,7 @@
     "en": "Venezuela digital elevation model."
   },
   "tiles": "modelodeelevacion_srtm_wgs84",
-  "tileInfo": "{\"type\":\"raster\",\"colorTable\":[[-124,\"#41c23cff\"],[220,\"#f9c91dff\"],[600,\"#f9a80eff\"],[900,\"#f98600ff\"],[1300,\"#cb5f3eff\"],[1600,\"#9d387dff\"],[1900,\"#9d387dff\"],[2300,\"#ba6daaff\"],[2700,\"#ba6daaff\"],[3000,\"#ba6daaff\"],[3300,\"#d7a2d6ff\"],[3700,\"#d7a2d6ff\"],[4000,\"#e6c8e6ff\"],[4400,\"#e6c8e6ff\"],[4767,\"#e6c8e6ff\"]]}",
+  "tileInfo": "{\"type\":\"raster\",\"colorTable\":[[-124,\"#41c23cff\"],[220,\"#f9c91dff\"],[600,\"#f9a80eff\"],[900,\"#f98600ff\"],[1300,\"#cb5f3eff\"],[1600,\"#9d387dff\"],[1900,\"#9d387dff\"],[2300,\"#ba6daaff\"],[2700,\"#ba6daaff\"],[3000,\"#ba6daaff\"],[3300,\"#d7a2d6ff\"],[3700,\"#d7a2d6ff\"],[4000,\"#e6c8e6ff\"],[4400,\"#e6c8e6ff\"],[4767,\"#e6c8e6ff\"]],\"gradient\":true}",
   "format": "geotiff",
   "date": "2020-12-03T08:00:00.000Z"
 }
