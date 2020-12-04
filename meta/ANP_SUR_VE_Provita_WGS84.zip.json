@@ -1,20 +1,20 @@
 {
   "file": "ANP_SUR_VE_Provita_WGS84.zip",
   "name": {
-    "es": "¡reas naturales protegidas de la AmazonÌa venezolana",
+    "es": "√Åreas naturales protegidas de la Amazon√≠a venezolana",
     "en": "Protected natural areas in the Venezuelan Amazon"
   },
-  "source": "Provita",
+  "source": "Provita test",
   "keywords": {
     "es": [
-      "·reas protegidas"
+      "√°reas protegidas"
     ],
     "en": [
       "protected natural areas"
     ]
   },
   "description": {
-    "es": "Contiene los lÌmites de demarcaciÛn de las ·reas naturales protegidas en la AmazonÌa venezolana. Incluye monumentos naturales, parques nacionales, reservas de biosfera y reservas forestales.",
+    "es": "Contiene los l√≠mites de demarcaci√≥n de las √°reas naturales protegidas en la Amazon√≠a venezolana. Incluye monumentos naturales, parques nacionales, reservas de biosfera y reservas forestales.",
     "en": "Contains the demarcation boundaries of the protected natural areas in the Venezuelan Amazon. Includes natural monuments, national parks, biosphere reserves, and forest reserves."
   },
   "tiles": "anp_sur_ve_provita_wgs84",
