@@ -1,0 +1,28 @@
+{
+  "file": "ModelodeElevacion_SRTM_interp_WGS84.tif",
+  "name": {
+    "es": "Modelo de elevación digital (no-data rellenada)",
+    "en": "Digital elevation model (filled no-data)"
+  },
+  "source": "SRTM",
+  "keywords": {
+    "es": [
+      "dem",
+      "srtm",
+      "elevación"
+    ],
+    "en": [
+      "dem",
+      "srtm",
+      "elevation"
+    ]
+  },
+  "description": {
+    "es": "Modelo de elevación digital de Venezuela de la misión de topografía por radar del transbordador espacial (Space Shuttle) (SRTM) de Febrero del 2000, con resolución de 1 arcosegundo (30 m). Detalles <a href=\"https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-shuttle-radar-topography-mission-srtm-1-arc\" target=\"_blank\">aquí</a>.",
+    "en": "Venezuela digital elevation model from the February 2000 Shuttle Radar Topography Mission (SRTM), at 1 arc second (30 m) resolution. Details <a href=\"https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-shuttle-radar-topography-mission-srtm-1-arc\" target=\"_blank\">here</a>."
+  },
+  "tiles": "modelodeelevacion_srtm_interp_wgs84",
+  "tileInfo": "{\"type\":\"raster\",\"colorTable\":[[-124,\"#41c23cff\"],[220,\"#f9c91dff\"],[650,\"#f9a80eff\"],[900,\"#f98600ff\"],[1300,\"#cb5f3eff\"],[1600,\"#9d387dff\"],[1900,\"#9d387dff\"],[2300,\"#ba6daaff\"],[2700,\"#ba6daaff\"],[3000,\"#ba6daaff\"],[3300,\"#d7a2d6ff\"],[3700,\"#d7a2d6ff\"],[4000,\"#e6c8e6ff\"],[4400,\"#e6c8e6ff\"],[4767,\"#e6c8e6ff\"]],\"gradient\":false,\"hideNoData\":true}",
+  "format": "geotiff",
+  "date": "2020-12-03T08:00:00.000Z"
+}
