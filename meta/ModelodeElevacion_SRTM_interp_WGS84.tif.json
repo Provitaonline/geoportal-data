@@ -18,7 +18,7 @@
     ]
   },
   "description": {
-    "es": "Modelo de elevación digital de Venezuela de la misión de topografía por radar del transbordador espacial (Space Shuttle) (SRTM) de Febrero del 2000, con resolución de 1 arcosegundo (30 m). Detalles [aquí](https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-shuttle-radar-topography-mission-srtm-1-arc)</a>.\n  \nÁreas con falta de información (no data) se han rellenado a través de un algoritmo de interpolación con el siguiente comando de [GDAL](https://gdal.org/): [`gdal_fillnodata.py  -md 200`](https://gdal.org/programs/gdal_fillnodata.html)",
+    "es": "Modelo de elevación digital de Venezuela de la misión de topografía por radar del transbordador espacial (Space Shuttle) (SRTM) de Febrero del 2000, con resolución de 1 arcosegundo (30 m). Detalles [aquí](https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-shuttle-radar-topography-mission-srtm-1-arc).\n  \nÁreas con falta de información (no data) se han rellenado a través de un algoritmo de interpolación con el siguiente comando de [GDAL](https://gdal.org/): [`gdal_fillnodata.py  -md 200`](https://gdal.org/programs/gdal_fillnodata.html)",
     "en": "Venezuela digital elevation model from the February 2000 Shuttle Radar Topography Mission (SRTM), at 1 arc second (30 m) resolution. Details [here](https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-shuttle-radar-topography-mission-srtm-1-arc).\n  \nAreas without data (no data) have been filled with an interpolation algorithm using the following [GDAL](https://gdal.org/) command: [`gdal_fillnodata.py  -md 200`](https://gdal.org/programs/gdal_fillnodata.html)\n\n"
   },
   "tiles": "modelodeelevacion_srtm_interp_wgs84",
