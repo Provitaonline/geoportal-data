@@ -18,7 +18,7 @@
         "es": "¿Y esto otro que es?"
       },
       "answer": {
-        "en": "Also nothing",
+        "en": "Also **nothing**",
         "es": "Tampoco nada"
       },
       "subject": 1
