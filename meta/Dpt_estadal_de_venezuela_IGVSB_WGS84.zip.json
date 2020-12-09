@@ -16,8 +16,8 @@
     ]
   },
   "description": {
-    "es": "Límites estadales oficiales de la República Bolivariana de Venezuela.",
-    "en": "Official state boundaries of the Bolivarian Republic of Venezuela."
+    "es": "Límites estadales oficiales de la República Bolivariana de Venezuela publicados por el Instituto Geográfico de Venezuela Simón Bolívar (IGVSB).",
+    "en": "Official state boundaries of the Bolivarian Republic of Venezuela published by the Simon Bolivar Venezuelan Geographic Institute (IGSV)."
   },
   "tiles": "dpt_estadal_de_venezuela_igvsb_wgs84",
   "tileInfo": "{\"type\":\"vector\",\"displayAttribute\":\"NAM\",\"style\":{\"type\":\"fill\",\"paint\":{\"fill-color\":\"#A0522D\",\"fill-opacity\":0.5,\"fill-outline-color\":\"#000\"},\"id\":\"dpt_estadal_de_venezuela_igvsb_wgs84\",\"source\":\"dpt_estadal_de_venezuela_igvsb_wgs84\",\"source-layer\":\"dpt_estadal_de_venezuela_igvsb_wgs84\"}}",
