@@ -16,8 +16,8 @@
     ]
   },
   "description": {
-    "es": "Límites municipales oficiales de la República Bolivariana de Venezuela.",
-    "en": "Official municipal boundaries of the Bolivarian Republic of Venezuela."
+    "es": "Límites municipales oficiales de la República Bolivariana de Venezuela publicados por el Instituto Geográfico de Venezuela Simón Bolívar (IGVSB).",
+    "en": "Official municipal boundaries of the Bolivarian Republic of Venezuela published by the Simon Bolivar Venezuelan Geographic Institute (IGSV)."
   },
   "tiles": "dpt_municipal_de_venezuela_igvsb_wgs84",
   "tileInfo": "{\"type\":\"vector\",\"displayAttribute\":\"nam\",\"style\":{\"type\":\"fill\",\"paint\":{\"fill-color\":\"#E15989\",\"fill-opacity\":0.5,\"fill-outline-color\":\"#000\"},\"id\":\"dpt_municipal_de_venezuela_igvsb_wgs84\",\"source\":\"dpt_municipal_de_venezuela_igvsb_wgs84\",\"source-layer\":\"dpt_municipal_de_venezuela_igvsb_wgs84\"}}",
