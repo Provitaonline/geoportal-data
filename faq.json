@@ -3,58 +3,36 @@
   "questions": [
     {
       "question": {
-        "en": "What is that?",
-        "es": "¿Que es eso?"
+        "en": "What type of information can I find in the Geoportal?",
+        "es": "¿Qué tipo de información puedo encontrar en el Geoportal?"
       },
       "answer": {
-        "en": "Nothing but let's *test*",
-        "es": "Eso no es nada, *bueno*, si, una prueba, eso es lo que es, cualquier cosa\n\nProbemos:\n\n* Uno"
+        "en": "The Provita Geoportal offers access to geospatial information for all Venezuela, in some cases with more details in the Venezuelan Amazon (Amazonas, Bolivar and Delta Amacuro states).",
+        "es": "El Geoportal de Provita ofrece acceso a información geoespacial para toda Venezuela, en algunas ocasiones con mayor detalle para la Amazonía venezolana (estados Amazonas, Bolívar y Delta Amacuro)."
       },
       "subject": 0
     },
     {
       "question": {
-        "en": "And what is this other thing?",
-        "es": "¿Y esto otro que es?"
+        "en": "What basic functionality  does the Geoportal offer?",
+        "es": "¿Qué funcionalidad básica ofrece el Geoportal?"
       },
       "answer": {
-        "en": "Also **nothing**",
-        "es": "Tampoco nada"
-      },
-      "subject": 1
-    },
-    {
-      "question": {
-        "en": "But what is this on the chest?",
-        "es": "¿Queréis ver si es verdad lo que digo?"
-      },
-      "answer": {
-        "en": "I took it up, and held it close to the light, and felt it, and smelt it, and tried every way possible to arrive at some satisfactory conclusion concerning it. I can compare it to nothing but a large door mat, ornamented at the edges with little tinkling tags something like the stained porcupine quills round an Indian moccasin. There was a hole or slit in the middle of this mat, as you see the same in South American ponchos. And they look like this ![layers](/images/layers.svg)\n",
-        "es": "Pues estadme atento y veréis cómo, en un abrir y cerrar de ojos, confundo todas vuestras dificultades y remedio todas las faltas que decís que os suspenden y acobardan para dejar de sacar a la luz del mundo la historia de vuestro famoso don Quijote, luz y espejo de toda la caballería andante."
-      },
-      "subject": 2
-    },
-    {
-      "question": {
-        "en": "Another one?",
-        "es": "¿Otra?"
-      },
-      "answer": {
-        "en": "Yes, another one, yes sir",
-        "es": "Si, otra"
+        "en": "Through the Provita Geoportal users can download geospatial data sets in a variety of topics of interest to environmental conservation. Users are free to choose and download available information as well as visualize it using various basemaps in a gallery.",
+        "es": "A través del Geoportal Provita se pueden descargar archivos geoespaciales relacionados con una variedad de tópicos de interés para la conservación del ambiente. El usuario es libre de escoger y descargar la información disponible así como visualizala usando diversos mapas base de la galería. "
       },
       "subject": 0
     },
     {
       "question": {
-        "en": "What are the data features?",
-        "es": "¿Cuales son las características de los datos?"
+        "en": "How can I visualize the geospatial data sets available in the Geoportal?",
+        "es": "¿Cómo hago para visualizar los archivos geoespaciales del Geoportal? "
       },
       "answer": {
-        "en": "They are many",
-        "es": "Son muchas"
+        "en": "In the home page, on the left side of the screen you can find a column where you can search using keywords under \"Data Sets,\" or you can scroll down the column to see all available information. Once you find a topic of interest, open the panel by clicking on the down arrow and then clicking on \"Add to map.\" You can add as many layers as you wish and they overlap in the order in which they are added. ",
+        "es": "En el home a la izquierda del panel de visualización se encuentra una columna donde puede hacer una búsqueda con palabras clave en “Archivos de Datos” o deslizar hacia abajo la columna para ver toda la información disponible. Al seleccionar un tema de su interés debe desplegar la ventana del mismo con un clic a la flecha y luego darle clic donde dice “Añadir al mapa”. Usted puede añadir tantas capas de información como guste, y las capas se solaparán en el orden en que son añadidas."
       },
-      "subject": 1
+      "subject": 0
     }
   ]
 }
