@@ -88,6 +88,17 @@
         "es": "La calidad de la información puede variar considerablemente, debido a la cantidad y variedad de datos disponibles. Parte de los datos representan la extensión nacional, sin embargo, dado el foco de los proyectos que trabaja Provita hay datos más detallados para la Amazonia venezolana. La mejor manera de evaluar la calidad de un dato y de determinar si es cónsono con ciertos usos es consultar la calidad del dato disponible en su metadato asociado."
       },
       "subject": 1
+    },
+    {
+      "question": {
+        "en": "Which coordinate reference system (CRS) is used in the Geoportal data?",
+        "es": "¿En que sistema geodésico de coordenadas se encuentran los datos del Geoportal? "
+      },
+      "answer": {
+        "en": "The Geoportal data sets use the international standard coordinate reference system (CRS) [WGS84(https://en.wikipedia.org/wiki/World_Geodetic_System). In the future, we will include a link to information on how to convert between CRSs as well as various cartographic projections. ",
+        "es": "Loa archivos se encuentran en el sistema geodésico de coordenadas estándar internacional [WGS84](https://es.wikipedia.org/wiki/WGS84). En el futuro incluiremos un enlace con información de cómo convertir entre sistemas geodésicos de referencia y diferentes proyecciones cartográficas."
+      },
+      "subject": 1
     }
   ]
 }
