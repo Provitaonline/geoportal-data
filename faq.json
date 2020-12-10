@@ -66,6 +66,17 @@
         "es": "Se trata de mantener la información lo más actualizada posible. Al desplegar la ventana de información de cada archivo geoespacial se puede observar la fecha de creación o en su defecto, la fecha de su última actualización."
       },
       "subject": 1
+    },
+    {
+      "question": {
+        "en": "How often is the Geoportal information updated?",
+        "es": "¿Cada cuánto se actualiza la información contenida en el Geoportal?"
+      },
+      "answer": {
+        "en": "We conduct an annual review and if we find outdated data sets, we proceed to update them. Updates are only performed if there are data sources available that can add information to the data sets. You can verify the date in the information panel for the data set of interest.",
+        "es": "Anualmente se hace una revisión y en caso de que algún archivo amerite alguna actualización se procede a la misma. Dicha actualización únicamente se realiza en caso de existir fuentes disponibles que aporten información a los productos publicados. Esto se puede observar con mayor detalle al consultar la fecha de actualización disponible en su metadato asociado.\n"
+      },
+      "subject": 1
     }
   ]
 }
