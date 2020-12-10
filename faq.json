@@ -117,8 +117,8 @@
         "es": "¿Se puede capturar una imagen del mapa con los datos que se están visualizando?"
       },
       "answer": {
-        "en": "Yes, ![Camera](~/assets/svgs/camera.svg)",
-        "es": "Si, ![Camara](~/assets/svgs/camera.svg)"
+        "en": "Yes, ![Camera](/images/camera.svg)",
+        "es": "Si, ![Camara](/images/camera.svg)"
       },
       "subject": 0
     }
