@@ -55,6 +55,17 @@
         "es": "Sí, en el panel de visualización del home, arriba y a la derecha del mapa, le da clic a este ícono ![Capas](/images/layers.svg) y allí podrá seleccionar diferentes mapas base pertenecientes a la galería."
       },
       "subject": 0
+    },
+    {
+      "question": {
+        "en": "What are the dates of the Geoportal data sets?",
+        "es": "¿De qué fecha son los archivos que puedo encontrar en el Geoportal?"
+      },
+      "answer": {
+        "en": "We try to maintain the information as current as possible. When displaying the information panel for each geospatial data set, the date shown is the creation date or the last updated date.",
+        "es": "Se trata de mantener la información lo más actualizada posible. Al desplegar la ventana de información de cada archivo geoespacial se puede observar la fecha de creación o en su defecto, la fecha de su última actualización."
+      },
+      "subject": 1
     }
   ]
 }
