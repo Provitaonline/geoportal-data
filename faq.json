@@ -58,6 +58,17 @@
     },
     {
       "question": {
+        "en": "Can I capture an image of the data being visualized on the map?",
+        "es": "¿Se puede capturar una imagen del mapa con los datos que se están visualizando?"
+      },
+      "answer": {
+        "en": "Yes, on the home page, top, right of the map, click this icon ![Camera](/images/camera.svg). An image of the map will be downloaded to your computer.",
+        "es": "Si, en el panel de visualización del home, arriba y a la derecha del mapa, le da clic a este ícono ![Camara](/images/camera.svg). Una imagen del mapa se descargará en su computadora."
+      },
+      "subject": 0
+    },
+    {
+      "question": {
         "en": "What are the dates of the Geoportal data sets?",
         "es": "¿De qué fecha son los archivos que puedo encontrar en el Geoportal?"
       },
@@ -110,17 +121,6 @@
         "es": "Los datos son de uso público pero deben ser citados reconociendo los derechos de autor. Esto aplica para productos generados por Provita o creados/modificados por la institución con su respectiva fuente. Por lo tanto, el usuario tiene acceso libre a todos los archivos disponibles en el Geoportal, bajo la licencia \"[Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.es)\"\n\nEjemplo de cómo citar:\n\n*Autor. Título del archivo. [Formato]. «Título del documento completo o sitio». Fecha de información. URL. (Fecha de consulta/descarga).*\n\n*Provita. Formaciones vegetales. [shapefile]. «Geoportal Provita». Junio de 2020. [https://geoportalp.netlify.app/](https://geoportalp.netlify.app/). (Consultado 02/Ago/2020).*"
       },
       "subject": 2
-    },
-    {
-      "question": {
-        "en": "Can I capture an image of the data being visualized on the map?",
-        "es": "¿Se puede capturar una imagen del mapa con los datos que se están visualizando?"
-      },
-      "answer": {
-        "en": "Yes, ![Camera](/images/camera.svg)",
-        "es": "Si, ![Camara](/images/camera.svg)"
-      },
-      "subject": 0
     }
   ]
 }
