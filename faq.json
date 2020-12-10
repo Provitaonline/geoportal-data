@@ -33,6 +33,17 @@
         "es": "En el home a la izquierda del panel de visualización se encuentra una columna donde puede hacer una búsqueda con palabras clave en “*Archivos de Datos*” o deslizar hacia abajo la columna para ver toda la información disponible. Al seleccionar un tema de su interés debe desplegar la ventana del mismo con un clic a la flecha y luego darle clic donde dice “*Añadir al mapa*”. Usted puede añadir tantas capas de información como guste, y las capas se solaparán en el orden en que son añadidas."
       },
       "subject": 0
+    },
+    {
+      "question": {
+        "en": "How can I download the Geoportal's geospatial data sets?",
+        "es": "¿Cómo puedo descargar los archivos geoespaciales del Geoportal?"
+      },
+      "answer": {
+        "en": "On the left side of the screen there is a column with the information topics available. Open the panel of interest by clicking on the down arrow and then click on \"*Download*,\" you will then be presented with a small survey (optional) after which you can proceed with the download.",
+        "es": "A la izquierda del panel de visualización se encuentra una columna con los temas de información disponibles. Debe desplegar la ventana del tema de su interés y darle clic en “*Descargar*”, posterior a esto aparecerá una ventana con una pequeña encuesta (opcional) y luego podrá proceder con su descarga."
+      },
+      "subject": 0
     }
   ]
 }
