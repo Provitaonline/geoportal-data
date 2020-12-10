@@ -44,6 +44,17 @@
         "es": "A la izquierda del panel de visualización se encuentra una columna con los temas de información disponibles. Debe desplegar la ventana del tema de su interés y darle clic en “*Descargar*”, posterior a esto aparecerá una ventana con una pequeña encuesta (opcional) y luego podrá proceder con su descarga."
       },
       "subject": 0
+    },
+    {
+      "question": {
+        "en": "Can I change the basemap when I am visualizing the information in the Geoportal?",
+        "es": "¿Puedo cambiar el mapa base al momento de visualizar la información en el geoportal?"
+      },
+      "answer": {
+        "en": "Yes, on the home page, top, right of the map, click this icon ![Layers](/images/layers.svg) and you will be able to pick from a selection of basemaps. ",
+        "es": "Sí, en el panel de visualización del home, arriba y a la derecha del mapa, le da clic a este ícono ![Capas](/images/layers.svg) y allí podrá seleccionar diferentes mapas base pertenecientes a la galería."
+      },
+      "subject": 0
     }
   ]
 }
