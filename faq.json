@@ -121,6 +121,17 @@
         "es": "Los datos son de uso público pero deben ser citados reconociendo los derechos de autor. Esto aplica para productos generados por Provita o creados/modificados por la institución con su respectiva fuente. Por lo tanto, el usuario tiene acceso libre a todos los archivos disponibles en el Geoportal, bajo la licencia \"[Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.es)\"\n\nEjemplo de cómo citar:\n\n*Autor. Título del archivo. [Formato]. «Título del documento completo o sitio». Fecha de información. URL. (Fecha de consulta/descarga).*\n\n*Provita. Formaciones vegetales. [shapefile]. «Geoportal Provita». Junio de 2020. [https://geoportalp.netlify.app/](https://geoportalp.netlify.app/). (Consultado 02/Ago/2020).*"
       },
       "subject": 2
+    },
+    {
+      "question": {
+        "en": "What is the format of the Geoportal data sets?",
+        "es": "¿En qué formato se encuentran los archivos del Geoportal?"
+      },
+      "answer": {
+        "en": "Vector data are stored in [\"Shapefile\"](https://en.wikipedia.org/wiki/Shapefile) format, packaged in compressed ZIP files.\n\nRaster data are stored in compressed (DEFLATE) [GeoTIFF](https://en.wikipedia.org/wiki/GeoTIFF) format.",
+        "es": "Los datos de tipo vectorial se encuentran almacenados en formato [\"Shapefile\"](https://es.wikipedia.org/wiki/Shapefile) empaquetados en archivos comprimidos tipo [ZIP](https://es.wikipedia.org/wiki/Formato_de_compresi%C3%B3n_ZIP).\n\nLos datos de tipo ráster se encuentran almacenados en formato [GeoTIFF](https://es.wikipedia.org/wiki/GeoTIFF) comprimidos (DEFLATE)."
+      },
+      "subject": 1
     }
   ]
 }
