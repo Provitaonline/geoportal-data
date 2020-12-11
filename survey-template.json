@@ -1,7 +1,31 @@
 {
   "id": "usersurvey",
-  "version": 15,
+  "version": 16,
   "fields": [
+    {
+      "label": {
+        "en": "What is the intended use of the information?",
+        "es": "¿Cual es el uso previsto de la información?"
+      },
+      "fieldname": "Pregunta-1",
+      "type": "select",
+      "options": {
+        "en": [
+          "Research",
+          "Academic",
+          "Industrial",
+          "Personal",
+          "Other"
+        ],
+        "es": [
+          "Investigación",
+          "Académico",
+          "Industrial",
+          "Personal",
+          "Otro"
+        ]
+      }
+    },
     {
       "fieldname": "test1",
       "type": "select",
