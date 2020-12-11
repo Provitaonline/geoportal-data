@@ -1,6 +1,6 @@
 {
   "id": "usersurvey",
-  "version": 16,
+  "version": 17,
   "fields": [
     {
       "label": {
@@ -27,76 +27,12 @@
       }
     },
     {
-      "fieldname": "test1",
-      "type": "select",
-      "options": {
-        "en": [
-          "A lot",
-          "A whole lot",
-          "Oodles"
-        ],
-        "es": [
-          "Mucho",
-          "Muchísimo",
-          "Más que muchísimo"
-        ]
+      "label": {
+        "en": "Do you have any suggestions to improve the Geoportal's content and/or its functionality?",
+        "es": "¿Tienes sugerencias para mejorar los contenidos y/o la funcionalidad del Geoportal?"
       },
-      "label": {
-        "en": "How much do you like this site?",
-        "es": "¿Cuánto te gusta este sitio?"
-      }
-    },
-    {
-      "fieldname": "test2",
-      "type": "text",
-      "label": {
-        "en": "How would you make it even better?",
-        "es": "¿Cómo lo mejorarías aun más?"
-      }
-    },
-    {
-      "label": {
-        "en": "Should we add another question?",
-        "es": "¿Te parece si añadimos otra pregunta?"
-      },
-      "fieldname": "Test",
+      "fieldname": "Pregunta-1",
       "type": "text"
-    },
-    {
-      "label": {
-        "en": "Continue?",
-        "es": "¿Seguimos?"
-      },
-      "fieldname": "test3",
-      "type": "select",
-      "options": {
-        "en": [
-          "Yes",
-          "No"
-        ],
-        "es": [
-          "Si",
-          "No"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": "Question",
-        "es": "Pregunta"
-      },
-      "fieldname": "test4",
-      "type": "select",
-      "options": {
-        "en": [
-          "one",
-          "two"
-        ],
-        "es": [
-          "uno",
-          "dos"
-        ]
-      }
     }
   ]
 }
