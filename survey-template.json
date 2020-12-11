@@ -1,6 +1,6 @@
 {
   "id": "usersurvey",
-  "version": 9,
+  "version": 10,
   "fields": [
     {
       "fieldname": "test1",
@@ -19,7 +19,7 @@
       },
       "label": {
         "en": "How much do you like this site?",
-        "es": "¿Cuánto te gusta este sitio? "
+        "es": "¿Cuánto te gusta este sitio? ???"
       }
     },
     {
