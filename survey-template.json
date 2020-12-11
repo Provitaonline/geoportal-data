@@ -1,6 +1,6 @@
 {
   "id": "usersurvey",
-  "version": 13,
+  "version": 14,
   "fields": [
     {
       "fieldname": "test1",
@@ -55,6 +55,14 @@
           "No"
         ]
       }
+    },
+    {
+      "label": {
+        "en": "Question",
+        "es": "Pregunta"
+      },
+      "fieldname": "test4",
+      "type": "text"
     }
   ]
 }
