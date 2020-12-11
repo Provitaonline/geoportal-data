@@ -1,6 +1,6 @@
 {
   "id": "usersurvey",
-  "version": 12,
+  "version": 13,
   "fields": [
     {
       "fieldname": "test1",
@@ -18,7 +18,7 @@
         ]
       },
       "label": {
-        "en": "How much do you like this site? ??",
+        "en": "How much do you like this site?",
         "es": "¿Cuánto te gusta este sitio?"
       }
     },
