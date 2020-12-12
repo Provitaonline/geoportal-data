@@ -106,7 +106,7 @@
         "es": "¿En que sistema geodésico de coordenadas se encuentran los datos del Geoportal? "
       },
       "answer": {
-        "en": "The Geoportal data sets use the international standard coordinate reference system (CRS) [WGS84(https://en.wikipedia.org/wiki/World_Geodetic_System). In the future, we will include a link to information on how to convert between CRSs as well as various cartographic projections. ",
+        "en": "The Geoportal data sets use the international standard coordinate reference system (CRS) [WGS84](https://en.wikipedia.org/wiki/World_Geodetic_System). In the future, we will include a link to information on how to convert between CRSs as well as various cartographic projections. ",
         "es": "Loa archivos se encuentran en el sistema geodésico de coordenadas estándar internacional [WGS84](https://es.wikipedia.org/wiki/WGS84). En el futuro incluiremos un enlace con información de cómo convertir entre sistemas geodésicos de referencia y diferentes proyecciones cartográficas."
       },
       "subject": 1
