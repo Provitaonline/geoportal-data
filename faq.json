@@ -30,7 +30,7 @@
       },
       "answer": {
         "en": "In the home page, on the left side of the screen you can find a column where you can search using keywords under \"*Data Sets*,\" or you can scroll down the column to see all available information. Once you find a topic of interest, open the panel by clicking on the down arrow ![Arrow](/images/downarrow.svg) and then clicking on \"*Add to map*.\" You can add as many layers as you wish and they overlap in the order in which they are added. ",
-        "es": "En el home a la izquierda del panel de visualización se encuentra una columna donde puede hacer una búsqueda con palabras clave en “*Archivos de Datos*” o deslizar hacia abajo la columna para ver toda la información disponible. Al seleccionar un tema de su interés debe desplegar la ventana del mismo con un clic a la flecha ![Flecha](/images/downarrow.svg) y luego darle clic donde dice “*Añadir al mapa*”. Usted puede añadir tantas capas de información como guste, y las capas se solaparán en el orden en que son añadidas."
+        "es": "En el home a la izquierda del panel de visualización se encuentra una columna donde se puede hacer una búsqueda con palabras clave en “*Archivos de Datos*” o deslizar hacia abajo la columna para ver toda la información disponible. Al seleccionar un tema de interés se debe desplegar la ventana del mismo con un clic a la flecha ![Flecha](/images/downarrow.svg) y luego darle clic donde dice “*Añadir al mapa*”. Se pueden añadir tantas capas de información como se desee, y las capas se solaparán en el orden en que se añadan."
       },
       "subject": 0
     },
@@ -41,7 +41,7 @@
       },
       "answer": {
         "en": "On the left side of the screen there is a column with the information topics available. Open the panel of interest by clicking on the down arrow and then click on \"*Download*,\" you will then be presented with a small survey (optional) after which you can proceed with the download.",
-        "es": "A la izquierda del panel de visualización se encuentra una columna con los temas de información disponibles. Debe desplegar la ventana del tema de su interés y darle clic en “*Descargar*”, posterior a esto aparecerá una ventana con una pequeña encuesta (opcional) y luego podrá proceder con su descarga."
+        "es": "A la izquierda del panel de visualización se encuentra una columna con los temas de información disponibles. Se debe desplegar la ventana del tema de interés y darle clic en “*Descargar*”, posterior a esto aparecerá una ventana con una pequeña encuesta (opcional) y luego se podrá proceder a su descarga."
       },
       "subject": 0
     },
@@ -52,7 +52,7 @@
       },
       "answer": {
         "en": "Yes, on the home page, top, right of the map, click this icon ![Layers](/images/layers.svg) and you will be able to pick from a selection of basemaps. ",
-        "es": "Sí, en el panel de visualización del home, arriba y a la derecha del mapa, le da clic a este ícono ![Capas](/images/layers.svg) y allí podrá seleccionar diferentes mapas base pertenecientes a la galería."
+        "es": "Sí, en el panel de visualización del home, arriba y a la derecha del mapa, se le da clic a este ícono ![Capas](/images/layers.svg) y allí se podrá seleccionar uno de los diferentes mapas base pertenecientes a la galería."
       },
       "subject": 0
     },
@@ -63,7 +63,7 @@
       },
       "answer": {
         "en": "Yes, on the home page, top, right of the map, click this icon ![Camera](/images/camera.svg). An image of the map will be downloaded to your computer.",
-        "es": "Si, en el panel de visualización del home, arriba y a la derecha del mapa, le da clic a este ícono ![Camara](/images/camera.svg). Una imagen del mapa se descargará en su computadora."
+        "es": "Si, en el panel de visualización del home, arriba y a la derecha del mapa, se le da clic a este ícono ![Camara](/images/camera.svg). Una imagen del mapa se descargará en la computadora."
       },
       "subject": 0
     },
