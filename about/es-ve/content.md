@@ -7,5 +7,3 @@ Este Geoportal fue creado por [Provita](https://www.provita.org.ve/) con el prop
 El objetivo es que este material pueda ser consultado y descargado, respetando los derechos de autor asociados. Esto permitirá apoyar el trabajo de otras instituciones y usuarios.
 
 Esperamos que la información aquí publicada sea de utilidad para muchos de ustedes. Cualquier sugerencia, comentario o aporte que puedan tener no duden en [contactarnos](/contact).
-
-TEST
