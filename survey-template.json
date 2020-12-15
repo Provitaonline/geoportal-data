@@ -1,6 +1,6 @@
 {
   "id": "usersurvey",
-  "version": 17,
+  "version": 18,
   "fields": [
     {
       "label": {
@@ -33,6 +33,23 @@
       },
       "fieldname": "Pregunta-1",
       "type": "text"
+    },
+    {
+      "label": {
+        "en": "TEST",
+        "es": "TEST"
+      },
+      "fieldname": "TEST",
+      "type": "select",
+      "options": {
+        "en": [
+          "TEST"
+        ],
+        "es": [
+          "TEST"
+        ]
+      }
     }
-  ]
+  ],
+  "sha": "3e83f7e22662df4be9f02d74b8a17817d71911aa"
 }
