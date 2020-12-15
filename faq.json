@@ -132,6 +132,17 @@
         "es": "Los datos son de uso público pero deben ser citados reconociendo los derechos de autor. Esto aplica para productos generados por Provita o creados/modificados por la institución con su respectiva fuente. Por lo tanto, el usuario tiene acceso libre a todos los archivos disponibles en el Geoportal, bajo la licencia \"[Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.es)\"\n\nEjemplo de cómo citar:\n\n*Autor. Título del archivo. [Formato]. «Título del documento completo o sitio». Fecha de información. URL. (Fecha de consulta/descarga).*\n\n*Provita. Formaciones vegetales. [shapefile]. «Geoportal Provita». Junio de 2020. [https://geoportalp.netlify.app/](https://geoportalp.netlify.app/). (Consultado 02/Ago/2020).*"
       },
       "subject": 2
+    },
+    {
+      "question": {
+        "en": "TEST",
+        "es": "TEST"
+      },
+      "answer": {
+        "en": "TEST",
+        "es": "TEST"
+      },
+      "subject": 0
     }
   ]
 }
