@@ -1,6 +1,6 @@
 {
   "id": "usersurvey",
-  "version": 21,
+  "version": 22,
   "fields": [
     {
       "label": {
@@ -31,7 +31,7 @@
         "en": "Do you have any suggestions to improve the Geoportal's content and/or its functionality?",
         "es": "¿Tienes sugerencias para mejorar los contenidos y/o la funcionalidad del Geoportal?"
       },
-      "fieldname": "Pregunta-1",
+      "fieldname": "Pregunta-2",
       "type": "text"
     }
   ],
