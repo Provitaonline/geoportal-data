@@ -1,0 +1,24 @@
+{
+  "file": "ANP (1).zip",
+  "tiles": "anp (1)",
+  "name": {
+    "es": "TEST",
+    "en": "TEST"
+  },
+  "source": "TEST",
+  "keywords": {
+    "es": [
+      "TEST"
+    ],
+    "en": [
+      "TEST"
+    ]
+  },
+  "description": {
+    "es": "TEST",
+    "en": "TEST"
+  },
+  "tileInfo": "{\"type\":\"vector\",\"displayAttribute\":\"TEST\",\"style\":{\"type\":\"fill\",\"paint\":{\"fill-color\":\"#000\",\"fill-opacity\":1,\"fill-outline-color\":\"#000\"},\"id\":\"anp (1)\",\"source\":\"anp (1)\",\"source-layer\":\"anp (1)\"}}",
+  "format": "shapefile",
+  "date": "2020-12-12T08:00:00.000Z"
+}
