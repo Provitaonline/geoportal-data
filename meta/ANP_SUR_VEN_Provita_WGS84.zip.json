@@ -18,7 +18,7 @@
     "en": "Contains the demarcation boundaries of the protected natural areas in the Venezuelan Amazon. Includes natural monuments, national parks, biosphere reserves, and forest reserves."
   },
   "tiles": "anp_sur_ven_provita_wgs84",
-  "tileInfo": "{\"type\":\"vector\",\"displayAttribute\":\"nombre\",\"style\":{\"type\":\"fill\",\"paint\":{\"fill-color\":{\"type\":\"categorical\",\"property\":\"categoria\",\"default\":\"#760000\",\"stops\":[[\"Parque Nacional\",\"#8A2BE2\"],[\"Monumento Natural\",\"#7D0056\"],[\"Reserva de Biosfera\",\"#554080\"],[\"Reserva Forestal\",\"#6D8059\"]]},\"fill-opacity\":0.5,\"fill-outline-color\":\"#000\"},\"id\":\"anp_sur_ve_provita_wgs84\",\"source\":\"anp_sur_ve_provita_wgs84\",\"source-layer\":\"anp_sur_ve_provita_wgs84\"}}",
+  "tileInfo": "{\"type\":\"vector\",\"displayAttribute\":\"nombre\",\"style\":{\"type\":\"fill\",\"paint\":{\"fill-color\":{\"type\":\"categorical\",\"property\":\"categoria\",\"default\":\"#760000\",\"stops\":[[\"Parque Nacional\",\"#8A2BE2\"],[\"Monumento Natural\",\"#7D0056\"],[\"Reserva de Biosfera\",\"#554080\"],[\"Reserva Forestal\",\"#6D8059\"]]},\"fill-opacity\":0.5,\"fill-outline-color\":\"#000\"},\"id\":\"anp_sur_ven_provita_wgs84\",\"source\":\"anp_sur_ven_provita_wgs84\",\"source-layer\":\"anp_sur_ven_provita_wgs84\"}}",
   "format": "shapefile",
   "date": "2020-11-24T08:00:00.000Z",
   "sha": "66fca75c78049cc58fa47c5185bd01f90680ddf5"
