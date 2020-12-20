@@ -16,4 +16,4 @@ Data items:
 
 Collaborators on this repository are granted admin access in the Geoportal site.
 
-The data herein is under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.
+The data herein is under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
