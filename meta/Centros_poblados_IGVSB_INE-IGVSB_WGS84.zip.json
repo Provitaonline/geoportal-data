@@ -16,10 +16,10 @@
   },
   "description": {
     "es": "Este archivo contiene datos de centros poblados consolidados provenientes de dos fuentes, el Instituto Geográfico de Venezuela Simón Bolívar (IGVSB) y el Instituto Nacional de Estadística (INE-IGVSB).",
-    "en": "This file contains data about population centers merged from two sources, the Instituto Geográfico de Venezuela Simón Bolívar (IGVSB) and the Instituto Nacional de Estadística (INE-IGVSB)."
+    "en": "This file contains data about population centers merged from two sources, the Simon Bolivar Venezuelan Geographic Institute (IGVSB) and the National Institute of Statistics (INE-IGVSB)."
   },
-  "tileInfo": "{\"type\":\"vector\",\"displayAttribute\":\"fuente\",\"style\":{\"type\":\"circle\",\"paint\":{\"circle-color\":\"#8B008B\",\"circle-opacity\":0.6,\"circle-radius\":6,\"circle-stroke-width\":0,\"circle-stroke-color\":\"#ffffff\"},\"id\":\"centros_poblados_igvsb_ine-igvsb_wgs84\",\"source\":\"centros_poblados_igvsb_ine-igvsb_wgs84\",\"source-layer\":\"centros_poblados_igvsb_ine-igvsb_wgs84\"}}",
+  "tileInfo": "{\"type\":\"vector\",\"displayAttribute\":\"fuente\",\"style\":{\"type\":\"circle\",\"paint\":{\"circle-color\":\"#8B008B\",\"circle-opacity\":0.6,\"circle-radius\":5,\"circle-stroke-width\":0,\"circle-stroke-color\":\"#ffffff\"},\"id\":\"centros_poblados_igvsb_ine-igvsb_wgs84\",\"source\":\"centros_poblados_igvsb_ine-igvsb_wgs84\",\"source-layer\":\"centros_poblados_igvsb_ine-igvsb_wgs84\"}}",
   "format": "shapefile",
   "date": "2016-11-11T08:00:00.000Z",
-  "sha": "be38e6e065cb6a96987af235bcaebad53cfda312"
+  "sha": "607f7b83c406804645bbefdda35d5d51017afe6c"
 }
