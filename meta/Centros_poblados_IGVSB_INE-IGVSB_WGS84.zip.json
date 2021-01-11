@@ -20,6 +20,5 @@
   },
   "tileInfo": "{\"type\":\"vector\",\"displayAttribute\":\"fuente\",\"style\":{\"type\":\"circle\",\"paint\":{\"circle-color\":\"#8B008B\",\"circle-opacity\":0.6,\"circle-radius\":5,\"circle-stroke-width\":0,\"circle-stroke-color\":\"#ffffff\"},\"id\":\"centros_poblados_igvsb_ine-igvsb_wgs84\",\"source\":\"centros_poblados_igvsb_ine-igvsb_wgs84\",\"source-layer\":\"centros_poblados_igvsb_ine-igvsb_wgs84\"}}",
   "format": "shapefile",
-  "date": "2016-11-11T08:00:00.000Z",
-  "sha": "607f7b83c406804645bbefdda35d5d51017afe6c"
+  "date": "2016-11-11T08:00:00.000Z"
 }

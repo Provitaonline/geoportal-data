@@ -22,6 +22,5 @@
   "tiles": "dpt_municipal_de_venezuela_igvsb_wgs84",
   "tileInfo": "{\"type\":\"vector\",\"displayAttribute\":\"nam\",\"style\":{\"type\":\"fill\",\"paint\":{\"fill-color\":\"#E15989\",\"fill-opacity\":0.5,\"fill-outline-color\":\"#000\"},\"id\":\"dpt_municipal_de_venezuela_igvsb_wgs84\",\"source\":\"dpt_municipal_de_venezuela_igvsb_wgs84\",\"source-layer\":\"dpt_municipal_de_venezuela_igvsb_wgs84\"}}",
   "format": "shapefile",
-  "date": "2016-11-16T08:00:00.000Z",
-  "sha": "72cfda1351c1e21b4a38d587c5775e4ff5d6a1f4"
+  "date": "2016-11-16T08:00:00.000Z"
 }

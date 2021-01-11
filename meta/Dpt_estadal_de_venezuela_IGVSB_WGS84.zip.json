@@ -22,6 +22,5 @@
   "tiles": "dpt_estadal_de_venezuela_igvsb_wgs84",
   "tileInfo": "{\"type\":\"vector\",\"displayAttribute\":\"NAM\",\"style\":{\"type\":\"fill\",\"paint\":{\"fill-color\":\"#A0522D\",\"fill-opacity\":0.5,\"fill-outline-color\":\"#000\"},\"id\":\"dpt_estadal_de_venezuela_igvsb_wgs84\",\"source\":\"dpt_estadal_de_venezuela_igvsb_wgs84\",\"source-layer\":\"dpt_estadal_de_venezuela_igvsb_wgs84\"}}",
   "format": "shapefile",
-  "date": "2016-11-16T08:00:00.000Z",
-  "sha": "8073a4821aa335dc8825300cf3ef2680390ea076"
+  "date": "2016-11-16T08:00:00.000Z"
 }
