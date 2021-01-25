@@ -1,0 +1,28 @@
+{
+  "file": "Centros_poblados_IGVSB_INE_WGS84.zip",
+  "tiles": "centros_poblados_igvsb_ine_wgs84",
+  "name": {
+    "es": "Centros poblados",
+    "en": "Population centers"
+  },
+  "tileInfo": "{\"type\":\"vector\",\"style\":{\"type\":\"circle\",\"paint\":{\"circle-radius\":5,\"circle-opacity\":0.6,\"circle-color\":\"#8B008B\",\"circle-stroke-color\":\"#ffffff\",\"circle-stroke-width\":0},\"id\":\"centros_poblados_igvsb_ine_wgs84\",\"source\":\"centros_poblados_igvsb_ine_wgs84\",\"source-layer\":\"centros_poblados_igvsb_ine_wgs84\"},\"displayAttribute\":\"nombre_de\"}",
+  "description": {
+    "en": "This file contains data about population centers of Venezuela from the Simón Bolívar Geographic Venezuelan Institute (IGVSB) and the National Institute of Statistics (INE).",
+    "es": "Este archivo contiene datos de los centros poblados de Venezuela provenientes del Instituto Geográfico de Venezuela Simón Bolívar (IGVSB) y el Instituto Nacional de Estadística (INE)."
+  },
+  "source": "IGVSB - INE",
+  "keywords": {
+    "es": [
+      "población",
+      "localidad",
+      "pueblos"
+    ],
+    "en": [
+      "population",
+      "locality",
+      "towns"
+    ]
+  },
+  "format": "shapefile",
+  "date": "2016-05-04T04:00:00.000Z"
+}
