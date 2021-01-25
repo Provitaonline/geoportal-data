@@ -5,14 +5,6 @@
     "en": "Protected natural areas in the Venezuelan Amazon"
   },
   "source": "Provita",
-  "keywords": {
-    "es": [
-      "áreas protegidas"
-    ],
-    "en": [
-      "protected natural areas"
-    ]
-  },
   "description": {
     "es": "Contiene los límites de demarcación de las áreas naturales protegidas en la Amazonía venezolana. Incluye monumentos naturales, parques nacionales, reservas de biosfera y reservas forestales.",
     "en": "Contains the demarcation boundaries of the protected natural areas in the Venezuelan Amazon. Includes natural monuments, national parks, biosphere reserves, and forest reserves."
@@ -20,5 +12,15 @@
   "tiles": "anp_sur_ven_provita_wgs84",
   "tileInfo": "{\"type\":\"vector\",\"displayAttribute\":\"nombre\",\"style\":{\"type\":\"fill\",\"paint\":{\"fill-color\":{\"type\":\"categorical\",\"property\":\"categoria\",\"default\":\"#760000\",\"stops\":[[\"Parque Nacional\",\"#8A2BE2\"],[\"Monumento Natural\",\"#7D0056\"],[\"Reserva de Biosfera\",\"#554080\"],[\"Reserva Forestal\",\"#6D8059\"]]},\"fill-opacity\":0.5,\"fill-outline-color\":\"#000\"},\"id\":\"anp_sur_ven_provita_wgs84\",\"source\":\"anp_sur_ven_provita_wgs84\",\"source-layer\":\"anp_sur_ven_provita_wgs84\"}}",
   "format": "shapefile",
-  "date": "2021-01-18T04:00:00.000Z"
+  "date": "2021-01-18T04:00:00.000Z",
+  "keywords": {
+    "es": [
+      "áreas protegidas",
+      "ANP"
+    ],
+    "en": [
+      "protected natural areas",
+      "PNA"
+    ]
+  }
 }
