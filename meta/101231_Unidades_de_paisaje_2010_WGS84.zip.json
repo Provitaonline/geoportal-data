@@ -1,0 +1,26 @@
+{
+  "file": "101231_Unidades_de_paisaje_2010_WGS84.zip",
+  "format": "shapefile",
+  "tiles": "101231_unidades_de_paisaje_2010_wgs84",
+  "name": {
+    "es": "Unidades de paisaje",
+    "en": "Landscape units"
+  },
+  "source": "Provita",
+  "description": {
+    "es": "Contiene una clasificación jerárquica de paisajes vegetales de Venezuela, compilada por Provita como parte del desarrollo y la publicación del [Libro Rojo de los Ecosistemas Terrestres, 2010](https://ecosistemasamenazados.org). Los paisajes están clasificados por región, sub-región y sector.\n\nPara mayor información, se puede consultar el Libro Rojo de los Ecosistemas Terrestres de Venezuela, 2010, [Unidades de paisaje](https://ecosistemasamenazados.org/unidades).",
+    "en": "Contains a hierarchical classification of vegetation landscapes in Venezuela, compiled by Provita as part of the development and publication of the [Red Book of Venezuelan Terrestrial Ecosystems, 2010](https://ecosistemasamenazados.org). Landscapes are classified by region, sub-region and sector.\n\nFor additional information, see the Red Book of Venezuelan Terrestrial Ecosystems, 2010, [Landscape units](https://ecosistemasamenazados.org/unidades) (in Spanish)."
+  },
+  "tileInfo": "{\"type\":\"vector\",\"style\":{\"type\":\"fill\",\"paint\":{\"fill-color\":{\"type\":\"categorical\",\"property\":\"Región\",\"default\":\"#ffffff\",\"stops\":[[\"Región A. Costas e Islas. Paisajes vegetales de las costas e islas\",\"#fbec5d\"],[\"Región B. Llanuras bajas. Paisajes vegetales de las llanuras bajas\",\"#32CD32\"],[\"Región C. Colinas. Paisajes vegetales de las colinas\",\"#DEB887\"],[\"Región D. Montañas. Paisajes vegetales de las montañas\",\"#4682B4\"]]},\"fill-outline-color\":\"#000\",\"fill-opacity\":0.5},\"id\":\"101231_unidades_de_paisaje_2010_wgs84\",\"source\":\"101231_unidades_de_paisaje_2010_wgs84\",\"source-layer\":\"101231_unidades_de_paisaje_2010_wgs84\"},\"displayAttribute\":\"Región\"}",
+  "keywords": {
+    "es": [
+      "clasificación",
+      "paisajes"
+    ],
+    "en": [
+      "classification",
+      "landscapes"
+    ]
+  },
+  "date": "2010-12-31T04:00:00.000Z"
+}
