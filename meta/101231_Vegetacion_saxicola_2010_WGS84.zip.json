@@ -11,7 +11,7 @@
     "es": "Localiza áreas de vegetación saxícola de Venezuela, compiladas por Provita como parte del desarrollo y la publicación del [Libro Rojo de los Ecosistemas Terrestres, 2010](https://ecosistemasamenazados.org). \n\nPara mayor información, se puede consultar el Libro Rojo de los Ecosistemas Terrestres de Venezuela, 2010, [Representación de las formaciones vegetales de Venezuela](https://ecosistemasamenazados.org/vegetacion/formaciones).",
     "en": "Locates areas of saxicolous vegetation in Venezuela, compiled by Provita as part of the development and publication of the [Red Book of Venezuelan Terrestrial Ecosystems, 2010](https://ecosistemasamenazados.org).\n\nFor additional information, see the Red Book of Venezuelan Terrestrial Ecosystems, 2010, [Representation of Venezuela's vegetation formations](https://ecosistemasamenazados.org/vegetacion/formaciones) (in Spanish)."
   },
-  "tileInfo": "{\"type\":\"vector\",\"style\":{\"type\":\"circle\",\"paint\":{\"circle-stroke-color\":\"#ffffff\",\"circle-stroke-width\":1,\"circle-opacity\":0.6,\"circle-radius\":5,\"circle-color\":\"#013f29\"},\"id\":\"vegetacion_saxicola_2010_wgs84\",\"source\":\"vegetacion_saxicola_2010_wgs84\",\"source-layer\":\"vegetacion_saxicola_2010_wgs84\"},\"displayAttribute\":\"FITOCENOSI\"}",
+  "tileInfo": "{\"type\":\"vector\",\"style\":{\"type\":\"circle\",\"paint\":{\"circle-stroke-color\":\"#ffffff\",\"circle-stroke-width\":1,\"circle-opacity\":0.6,\"circle-radius\":5,\"circle-color\":\"#013f29\"},\"id\":\"101231_vegetacion_saxicola_2010_wgs84\",\"source\":\"101231_vegetacion_saxicola_2010_wgs84\",\"source-layer\":\"101231_vegetacion_saxicola_2010_wgs84\"},\"displayAttribute\":\"FITOCENOSI\"}",
   "keywords": {
     "es": [
       "clasificación",
