@@ -1,0 +1,26 @@
+{
+  "file": "101231_Formaciones_vegetales_2010_WGS84.zip",
+  "format": "shapefile",
+  "tiles": "101231_formaciones_vegetales_2010_wgs84",
+  "name": {
+    "es": "Formaciones vegetales",
+    "en": "Plant formations"
+  },
+  "description": {
+    "es": "Contiene una clasificación de formaciones vegetales de Venezuela, compilada por Provita como parte del desarrollo y la publicación del [Libro Rojo de los Ecosistemas Terrestres, 2010](https://ecosistemasamenazados.org).\n\nPara mayor información, se puede consultar el Libro Rojo de los Ecosistemas Terrestres de Venezuela, 2010, [Representación de las formaciones vegetales de Venezuela](https://ecosistemasamenazados.org/vegetacion/formaciones).",
+    "en": "Contains a classification of vegetal formations in Venezuela, compiled by Provita as part of the development and publication of the [Red Book of Venezuelan Terrestrial Ecosystems, 2010](https://ecosistemasamenazados.org).\n\nFor additional information, see the Red Book of Venezuelan Terrestrial Ecosystems, 2010, [Representation of the plant formations of Venezuela](https://ecosistemasamenazados.org/unidades) (in Spanish)."
+  },
+  "source": "Provita",
+  "tileInfo": "{\"type\":\"vector\",\"style\":{\"type\":\"fill\",\"paint\":{\"fill-color\":{\"type\":\"categorical\",\"stops\":[[\"Bosques siempreverdes per se\",\"#1a7000\"],[\"Bosques nublados\",\"#219000\"],[\" Bosques de palmas\",\"#2ab600\"],[\" Bosques de pantano\",\"#457f34\"],[\"Bosques de manglares\",\"#4eaa32\"],[\" Bosques semideciduos\",\"#85d86b\"],[\" Bosques deciduos\",\"#a7b525\"],[\"Bosques ribereños\",\"#aab347\"],[\"Arbustales siempreverdes per se\",\"#b39447\"],[\" Arbustales tepuyanos\",\"#8f2c09\"],[\"Arbustales espinosos\",\"#c75b37\"],[\"Arbustales litorales\",\"#da7f60\"],[\"Arbustales ribereños\",\"#9e621e\"],[\"Arbustales y herbazales parameros\",\"#bd8f19\"],[\"Sabanas abiertas\",\"#f6cd90\"],[\"Sabanas arbustivas y/o arboladas\",\"#ff9e01\"],[\"Herbazales de pantano\",\"#c5d6a7\"],[\"Herbazales arbustivos sobre arena\",\"#b9d77c\"],[\"Herbazales tepuyanos\",\"#f1cfbb\"],[\"Herbazales litorales\",\"#f3e48a\"],[\"Áreas intervenidas\",\"#eec4e5\"],[\"Cuerpos de agua\",\"#81dcd3\"]],\"property\":\"FV_VE\",\"default\":\"#ffffff\"},\"fill-opacity\":0.5,\"fill-outline-color\":\"#000\"},\"id\":\"101231_formaciones_vegetales_2010_wgs84\",\"source\":\"101231_formaciones_vegetales_2010_wgs84\",\"source-layer\":\"101231_formaciones_vegetales_2010_wgs84\"},\"displayAttribute\":\"FV_VE\"}",
+  "keywords": {
+    "es": [
+      "clasificación",
+      "vegetación"
+    ],
+    "en": [
+      "classification",
+      "vegetation"
+    ]
+  },
+  "date": "2010-12-31T04:00:00.000Z"
+}
