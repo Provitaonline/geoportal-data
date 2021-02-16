@@ -117,8 +117,8 @@
         "es": "¿En qué formato se encuentran los archivos del Geoportal?"
       },
       "answer": {
-        "en": "Vector data are stored in [\"Shapefile\"](https://en.wikipedia.org/wiki/Shapefile) format, packaged in compressed [ZIP](https://en.wikipedia.org/wiki/ZIP_(file_format)) files.\n\nRaster data are stored in compressed (DEFLATE) [GeoTIFF](https://en.wikipedia.org/wiki/GeoTIFF) format.",
-        "es": "Los datos de tipo vectorial se encuentran almacenados en formato [\"Shapefile\"](https://es.wikipedia.org/wiki/Shapefile) empaquetados en archivos comprimidos tipo [ZIP](https://es.wikipedia.org/wiki/Formato_de_compresi%C3%B3n_ZIP).\n\nLos datos de tipo ráster se encuentran almacenados en formato [GeoTIFF](https://es.wikipedia.org/wiki/GeoTIFF) comprimidos (DEFLATE)."
+        "en": "Vector data are stored in [\"Shapefile\"](https://en.wikipedia.org/wiki/Shapefile) format. Raster data are stored in compressed (DEFLATE) [GeoTIFF](https://en.wikipedia.org/wiki/GeoTIFF) format.\n\nBoth file types are packaged in compressed [ZIP](https://en.wikipedia.org/wiki/ZIP_(file_format)) files, and may include related metadata.",
+        "es": "Los datos de tipo vectorial se encuentran almacenados en formato [\"Shapefile\"](https://es.wikipedia.org/wiki/Shapefile). Los datos de tipo ráster se encuentran almacenados en formato [GeoTIFF](https://es.wikipedia.org/wiki/GeoTIFF) comprimidos (DEFLATE).\n\nLos datos en ambos formatos están empaquetados en archivos comprimidos tipo [ZIP](https://es.wikipedia.org/wiki/Formato_de_compresi%C3%B3n_ZIP) y pueden incluir metadata relacionada."
       },
       "subject": 1
     },
