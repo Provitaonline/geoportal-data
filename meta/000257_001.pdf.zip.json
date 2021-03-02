@@ -19,7 +19,7 @@
     "en": "test"
   },
   "tileGenSrc": "Bosques.zip",
-  "tileInfo": "{\"type\":\"raster\",\"colorTable\":[[0,\"#0000\"],[1,\"#169017fd\"]]}",
+  "tileInfo": "{\"type\":\"raster\",\"colorTable\":[[0,\"#0000\"],[1,\"#169017fe\"]]}",
   "date": "2021-03-02T08:00:00.000Z",
   "tiles": "bosques"
 }
