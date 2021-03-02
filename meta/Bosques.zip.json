@@ -18,7 +18,7 @@
     "es": "test",
     "en": "test"
   },
-  "tileInfo": "{\"type\":\"raster\",\"colorTable\":[[0,\"#0000\"],[1,\"#169077fe\"]]}",
+  "tileInfo": "{\"type\":\"raster\",\"colorTable\":[[0,\"#0000\"],[1,\"#169077fd\"]]}",
   "date": "2021-03-02T08:00:00.000Z",
   "tiles": "bosques"
 }
