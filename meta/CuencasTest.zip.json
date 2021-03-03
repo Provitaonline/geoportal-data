@@ -19,7 +19,7 @@
     "en": "This is just a test to show pdf files"
   },
   "tileGenSrc": "Cuencas.zip",
-  "tileInfo": "{\"type\":\"vector\",\"displayAttribute\":\"nombre\",\"style\":{\"type\":\"fill\",\"paint\":{\"fill-color\":\"#66ccff\",\"fill-opacity\":1,\"fill-outline-color\":\"#000\"}}}",
+  "tileInfo": "{\"type\":\"vector\",\"displayAttribute\":\"NOMBRE\",\"style\":{\"type\":\"fill\",\"paint\":{\"fill-color\":\"#66ccff\",\"fill-opacity\":1,\"fill-outline-color\":\"#000\"},\"id\":\"cuencas\",\"source\":\"cuencas\",\"source-layer\":\"cuencas\"}}",
   "date": "2021-03-02T08:00:00.000Z",
   "tiles": "cuencas"
 }
