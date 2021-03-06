@@ -1,0 +1,25 @@
+{
+  "file": "BosquesTestCopy.zip",
+  "format": "pdf",
+  "name": {
+    "es": "Demo de archivos pdf con teselas ráster (COPIA)",
+    "en": "Pdf file demo using raster tiles (COPY)"
+  },
+  "source": "Test",
+  "keywords": {
+    "es": [
+      "test"
+    ],
+    "en": [
+      "test"
+    ]
+  },
+  "description": {
+    "en": "This is just a test to show pdf files",
+    "es": "Esto solo es una prueba para demostrar archivos tipo pdf"
+  },
+  "tileInfo": "{\"type\":\"raster\",\"colorTable\":[[0,\"#0000\"],[1,\"#169017fe\"]]}",
+  "date": "2021-03-02T08:00:00.000Z",
+  "tiles": "bosques",
+  "tileGenSrc": "Bosques.zip"
+}
