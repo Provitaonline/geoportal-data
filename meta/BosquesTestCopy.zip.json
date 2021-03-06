@@ -15,8 +15,8 @@
     ]
   },
   "description": {
-    "en": "This is just a test to show pdf files",
-    "es": "Esto solo es una prueba para demostrar archivos tipo pdf"
+    "en": "This is just a test to show pdf files (copy)",
+    "es": "Esto solo es una prueba para demostrar archivos tipo pdf (copia)"
   },
   "tileInfo": "{\"type\":\"raster\",\"colorTable\":[[0,\"#0000\"],[1,\"#169017fe\"]]}",
   "date": "2021-03-02T08:00:00.000Z",
