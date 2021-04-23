@@ -28,5 +28,10 @@
     "en": "Representation of vegetation cover and land use identified from Landsat satellite images for the year 2000.\n\nThe maps are the result of improvements in the issues of land use, floodplains and the review of a panel of experts, based on the maps of the collection 2 of MapBiomas Amazonia."
   },
   "date": "2021-04-21T04:00:00.000Z",
-  "tiles": "aff_2000"
+  "tiles": "aff_2000",
+  "tileLabels": [
+    null,
+    "Bosque",
+    "Manglar"
+  ]
 }
