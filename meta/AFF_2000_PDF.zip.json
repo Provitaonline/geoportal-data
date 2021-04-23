@@ -32,6 +32,16 @@
   "tileLabels": [
     null,
     "Bosque",
-    "Manglar"
+    "Manglar",
+    "Bosque inundable",
+    "Formación no forestal en humedales",
+    "Sabanas y hebazales",
+    "Vegetación tepuyana",
+    "Uso agropecuario",
+    "Áreas sin vegetación",
+    "Zonas urbanas",
+    "Afloramientos rocosos",
+    "Uso minero",
+    "Cuerpos de agua"
   ]
 }
