@@ -1,7 +1,7 @@
 {
   "file": "testzip.zip",
   "format": "shapefile",
-  "tileInfo": "{\"type\":\"vector\",\"style\":{\"type\":\"fill\",\"paint\":{\"fill-color\":{\"type\":\"categorical\",\"stops\":[[\"Parque Nacional\",\"#246400\"],[\"Monumento Natural\",\"#338c00\"],[\"Reserva de Biosfera\",\"#45bc00\"],[\"Reserva Forestal\",\"#90ff4b\"]],\"property\":\"categoria\",\"default\":\"#760000\"},\"fill-opacity\":0.5,\"fill-outline-color\":\"#000\"},\"id\":\"testzip\",\"source\":\"testzip\",\"source-layer\":\"testzip\"},\"displayAttribute\":\"nombre\"}",
+  "tileInfo": "{\"type\":\"vector\",\"style\":{\"type\":\"fill\",\"paint\":{\"fill-color\":{\"type\":\"categorical\",\"stops\":[[\"Parque Nacional\",\"#070066\"],[\"Monumento Natural\",\"#338c00\"],[\"Reserva de Biosfera\",\"#45bc00\"],[\"Reserva Forestal\",\"#90ff4b\"]],\"property\":\"categoria\",\"default\":\"#760000\"},\"fill-opacity\":0.5,\"fill-outline-color\":\"#000\"},\"id\":\"testzip\",\"source\":\"testzip\",\"source-layer\":\"testzip\"},\"displayAttribute\":\"nombre\"}",
   "name": {
     "es": "Áreas naturales protegidas de la Amazonía venezolana (COPIA)",
     "en": "Protected natural areas in the Venezuelan Amazon (COPY)"
