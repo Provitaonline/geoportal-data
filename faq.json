@@ -51,7 +51,7 @@
         "es": "¿Puedo cambiar el mapa base al momento de visualizar la información en el geoportal?"
       },
       "answer": {
-        "en": "Yes, on the home page, top, right of the map, click this icon ![Layers](/images/layers.svg) and you will be able to pick from a selection of basemaps. ",
+        "en": "Yes, on the home page, top, right of the map, click this icon ![Layers](/images/layers.svg) and you will be able to pick from a selection of basemaps.",
         "es": "Sí, en el panel de visualización del home, arriba y a la derecha del mapa, se le da clic a este ícono  ![Capas](/images/layers.svg)  y allí se podrá seleccionar uno de los diferentes mapas base pertenecientes a la galería."
       },
       "subject": 0
