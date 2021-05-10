@@ -85,7 +85,7 @@
       },
       "answer": {
         "en": "We conduct an annual review and if we find outdated data sets, we proceed to update them. Updates are only performed if there are data sources available that can add information to the data sets. You can verify the date in the information panel for the data set of interest.",
-        "es": "Anualmente se hace una revisión y en caso de que algún archivo amerite alguna actualización se procede a la misma. Dicha actualización únicamente se realiza en caso de existir fuentes disponibles que aporten información a los productos publicados. Esto se puede observar con mayor detalle al consultar la fecha de actualización disponible en su metadato asociado.\n"
+        "es": "Anualmente se hace una revisión y en caso de que algún archivo amerite alguna actualización se procede a la misma. Dicha actualización únicamente se realiza en caso de existir fuentes disponibles que aporten información a los productos publicados. Esto se puede observar con mayor detalle al consultar la fecha de actualización disponible en su metadato asociado."
       },
       "subject": 1
     },
@@ -95,7 +95,7 @@
         "es": "¿Qué calidad tiene la información geoespacial a la que puedo acceder a través del Geoportal?"
       },
       "answer": {
-        "en": "The quality of the information can vary considerably due to the quantity and variety of the available data. Some data is available at the national level, however, given the focus of many of the projects Provita is working on, there are more details related to the Venezuelan Amazon. The best way of checking on the quality of the data to see if it is appropriate for the intended use, is to read the associated metadata. ",
+        "en": "The quality of the information can vary considerably due to the quantity and variety of the available data. Some data is available at the national level, however, given the focus of many of the projects Provita is working on, there are more details related to the Venezuelan Amazon. The best way of checking on the quality of the data to see if it is appropriate for the intended use, is to read the associated metadata.",
         "es": "La calidad de la información puede variar considerablemente, debido a la cantidad y variedad de datos disponibles. Parte de los datos representan la extensión nacional, sin embargo, dado el foco de los proyectos que trabaja Provita hay datos más detallados para la Amazonía venezolana. La mejor manera de evaluar la calidad de un dato y de determinar si es cónsono con ciertos usos es consultar la calidad del dato disponible en su metadato asociado."
       },
       "subject": 1
