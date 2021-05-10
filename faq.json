@@ -29,7 +29,7 @@
         "es": "¿Cómo hago para visualizar los archivos geoespaciales del Geoportal? "
       },
       "answer": {
-        "en": "In the home page, on the left side of the screen you can find a column where you can search using keywords under \"*Data Sets*,\" or you can scroll down the column to see all available information. Once you find a topic of interest, open the panel by clicking on the down arrow ![Arrow](/images/downarrow.svg) and then clicking on \"*Add to map*.\" You can add as many layers as you wish and they overlap in the order in which they are added. ",
+        "en": "In the home page, on the left side of the screen you can find a column where you can search using keywords under \"*Data Sets*,\" or you can scroll down the column to see all available information. Once you find a topic of interest, open the panel by clicking on the down arrow ![Arrow](/images/downarrow.svg) and then clicking on \"*Add to map*.\" You can add as many layers as you wish and they overlap in the order in which they are added.",
         "es": "En el home a la izquierda del panel de visualización se encuentra una columna donde se puede hacer una búsqueda con palabras clave en “*Archivos de Datos*” o deslizar hacia abajo la columna para ver toda la información disponible. Al seleccionar un tema de interés se debe desplegar la ventana del mismo con un clic a la flecha  ![Flecha](/images/downarrow.svg)  y luego darle clic donde dice “*Añadir al mapa*”. Se pueden añadir tantas capas de información como se desee, y las capas se solaparán en el orden en que se añadan."
       },
       "subject": 0
