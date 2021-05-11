@@ -84,8 +84,8 @@
         "es": "¿Cada cuánto se actualiza la información contenida en el Geoportal?"
       },
       "answer": {
-        "en": "We conduct an annual review and if we find outdated data sets, we proceed to update them. Updates are only performed if there are data sources available that can add information to the data sets. You can verify the date in the information panel for the data set of interest.",
-        "es": "Anualmente se hace una revisión y en caso de que algún archivo amerite alguna actualización se procede a la misma. Dicha actualización únicamente se realiza en caso de existir fuentes disponibles que aporten información a los productos publicados. Esto se puede observar con mayor detalle al consultar la fecha de actualización disponible en su metadato asociado."
+        "en": "The information contained in the geoportal is under constant review, and if any modification or update is required, we proceed to update them. Updates are only performed if there are data sources available that can add information to the data sets. You can verify the date in the information panel for the data set of interest.",
+        "es": "La información contenida en el geoportal está en constante revisión, y en caso de requerir alguna modificación o actualización, se procede a hacerla. Dicha actualización únicamente se realiza en caso de existir fuentes disponibles que aporten información a los productos publicados. Esto se puede observar con mayor detalle al consultar la fecha de actualización disponible en su metadato asociado."
       },
       "subject": 1
     },
