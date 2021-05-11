@@ -73,8 +73,8 @@
         "es": "¿De qué fecha son los archivos que puedo encontrar en el Geoportal?"
       },
       "answer": {
-        "en": "We try to maintain the information as current as possible. When displaying the information panel for each geospatial data set, the date shown is the creation date or the last updated date.",
-        "es": "Se trata de mantener la información lo más actualizada posible. Al desplegar la ventana de información de cada archivo geoespacial se puede observar la fecha de creación o en su defecto, la fecha de su última actualización."
+        "en": "The date varies depending on the file, we try to maintain the information as current as possible. When displaying the information panel for each geospatial data set, the date shown is the creation date or the last updated date.",
+        "es": "La fecha varía dependiendo del archivo, se trata de mantener la información lo más actualizada posible. Al desplegar la ventana de información de cada archivo geoespacial se puede observar la fecha de creación o en su defecto, la fecha de su última actualización."
       },
       "subject": 1
     },
