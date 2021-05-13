@@ -1,11 +1,11 @@
 {
   "id": "usersurvey",
-  "version": 2,
+  "version": 3,
   "fields": [
     {
       "label": {
         "en": "What is the intended use of the information?",
-        "es": "¿Cual es el uso previsto de la información?"
+        "es": "¿Cuál es el uso previsto de la información?"
       },
       "fieldname": "Pregunta-1",
       "type": "select",
