@@ -1,6 +1,6 @@
 {
   "id": "usersurvey",
-  "version": 1,
+  "version": 2,
   "fields": [
     {
       "label": {
@@ -13,15 +13,15 @@
         "en": [
           "Research",
           "Academic",
-          "Industrial",
-          "Personal",
+          "Business",
+          "Communication",
           "Other"
         ],
         "es": [
           "Investigación",
           "Académico",
-          "Industrial",
-          "Personal",
+          "Empresarial",
+          "Comunicación",
           "Otro"
         ]
       }
@@ -32,6 +32,14 @@
         "es": "¿Tienes sugerencias para mejorar los contenidos y/o la funcionalidad del Geoportal?"
       },
       "fieldname": "Pregunta-2",
+      "type": "text"
+    },
+    {
+      "label": {
+        "en": "What layers of information would you like to see in the future?",
+        "es": "¿Cuáles capas de información te gustaría ver en el futuro?"
+      },
+      "fieldname": "Pregunta-3",
       "type": "text"
     }
   ]
