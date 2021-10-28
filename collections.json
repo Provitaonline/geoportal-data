@@ -2,7 +2,7 @@
   "id": "collections",
   "collections":  [
     {
-      "collection": "AFF-2000-2010",
+      "collectionId": "AFF-2000-2010",
       "format": "pdf",
       "name": {
         "es": "Cobertura y uso del suelo en la Amazonía venezolana (2000-2010)",
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "collection": "AFF-2011-2020",
+      "collectionId": "AFF-2011-2020",
       "format": "pdf",
       "name": {
         "es": "Cobertura y uso del suelo en la Amazonía venezolana (2000-2010)",
