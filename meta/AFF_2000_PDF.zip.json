@@ -3,7 +3,6 @@
   "isCollectionItem": true,
   "collectionId": "AFF-2000-2010",
   "collectionItemId": "2000",
-  "source": "Provita",
   "tileGenSrc": "AFF_2000.zip",
   "tileInfo": "{\"type\":\"raster\",\"gradient\":false,\"skipAutoGen\":false,\"hideNoData\":true,\"colorTable\":[[0,\"#00000000\"],[3,\"#006400ff\"],[5,\"#687537ff\"],[6,\"#76a5afff\"],[11,\"#45c2a5ff\"],[12,\"#b8af4fff\"],[13,\"#009d00ff\"],[21,\"#fff3bfff\"],[22,\"#ea9999ff\"],[24,\"#aa0000ff\"],[29,\"#935132ff\"],[30,\"#e803fcff\"],[33,\"#0000fffc\"]]}",
   "description": {
