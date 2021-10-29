@@ -5,21 +5,6 @@
   "collectionItemId": "2000",
   "source": "Provita",
   "tileGenSrc": "AFF_2000.zip",
-  "keywords": {
-    "es": [
-      "uso",
-      "cobertura",
-      "suelo",
-      "amazonia",
-      "venezuela"
-    ],
-    "en": [
-      "land use",
-      "land cover",
-      "amazon",
-      "venezuela"
-    ]
-  },
   "tileInfo": "{\"type\":\"raster\",\"gradient\":false,\"skipAutoGen\":false,\"hideNoData\":true,\"colorTable\":[[0,\"#00000000\"],[3,\"#006400ff\"],[5,\"#687537ff\"],[6,\"#76a5afff\"],[11,\"#45c2a5ff\"],[12,\"#b8af4fff\"],[13,\"#009d00ff\"],[21,\"#fff3bfff\"],[22,\"#ea9999ff\"],[24,\"#aa0000ff\"],[29,\"#935132ff\"],[30,\"#e803fcff\"],[33,\"#0000fffc\"]]}",
   "description": {
     "es": "Representación de la cobertura vegetal y el uso de tierra identificada a partir de imágenes de satélite Landsat para el año 2000. Para mayor información puede revisar el reporte sobre _Cobertura y uso de la tierra en la Amazonía venezolana 2000-2020, ¿Cuáles son los principales impulsores de cambio?_ en nuestro [portal web](https://www.provita.org.ve/informate).\n\nLos mapas son el resultado de mejoras en los temas de uso de la tierra, zonas inundables y la revisión de un panel de expertos, con base en los mapas de la colección 2 de [MapBiomas Amazonía](https://amazonia.mapbiomas.org). Por esta razón los límites de la Amazonía venezolana corresponden a los establecidos por la [RAISG](https://www.amazoniasocioambiental.org).",
