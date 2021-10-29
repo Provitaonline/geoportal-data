@@ -3,11 +3,6 @@
   "isCollectionItem": true,
   "collectionId": "AFF-2000-2010",
   "collectionItemId": "2000",
-  "format": "pdf",
-  "name": {
-    "es": "Cobertura y uso del suelo en la Amazonía venezolana Año 2000",
-    "en": "Use and land cover in the Venezuelan Amazon Year 2000"
-  },
   "source": "Provita",
   "tileGenSrc": "AFF_2000.zip",
   "keywords": {
