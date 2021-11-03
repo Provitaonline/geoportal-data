@@ -90,6 +90,27 @@
         "Uso minero",
         "Cuerpos de agua"
       ]
+    },
+    {
+      "collectionId": "ANP For Testing",
+      "name": {
+        "es": "Colección de prueba",
+        "en": "Test collection"
+      },
+      "source": "Ricardo",
+      "keywords": {
+        "es": [
+          "test"
+        ],
+        "en": [
+          "test"
+        ]
+      },
+      "description": {
+        "es": "This is just a test",
+        "en": "This is just a test"
+      },
+      "tileInfo": "{\"type\":\"vector\",\"displayAttribute\":\"nombre\",\"style\":{\"type\":\"fill\",\"paint\":{\"fill-color\":{\"type\":\"categorical\",\"property\":\"categoria\",\"default\":\"#760000\",\"stops\":[[\"Parque Nacional\",\"#246400\"],[\"Monumento Natural\",\"#338c00\"],[\"Reserva de Biosfera\",\"#45bc00\"],[\"Reserva Forestal\",\"#90ff4b\"]]},\"fill-opacity\":0.5,\"fill-outline-color\":\"#000\"}}}"
     }
   ]
 }
