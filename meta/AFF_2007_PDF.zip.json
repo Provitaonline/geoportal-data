@@ -4,5 +4,6 @@
   "collectionId": "AFF-2000-2010",
   "collectionItemId": "2007",
   "tiles": "aff_2007",
-  "tileGenSrc": "AFF_2007.zip"
+  "tileGenSrc": "AFF_2007.zip",
+  "date": "2021-04-20T07:00:00.000Z"
 }
