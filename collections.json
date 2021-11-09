@@ -122,6 +122,32 @@
         "es": "Ítem de la colección",
         "en": "Collection item"
       }
+    },
+    {
+      "collectionId": "test",
+      "format": "geotiff",
+      "itemLabel": {
+        "es": "sdfdf",
+        "en": "sdfsdf"
+      },
+      "name": {
+        "es": "sdfsdf",
+        "en": "sdfsdf"
+      },
+      "source": "sdfsdf",
+      "keywords": {
+        "es": [
+          "sdfsdf"
+        ],
+        "en": [
+          "sdfsdf"
+        ]
+      },
+      "description": {
+        "es": "sdfdf",
+        "en": "sdfsdf"
+      },
+      "tileInfo": "{\"type\":\"raster\"}"
     }
   ]
 }
