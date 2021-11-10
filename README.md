@@ -14,7 +14,7 @@ Data items:
 * news (directory) - News items
 * news/thumbs (directory) - Thumbnails associated with news items
 * collections.json - Metadata associated with collections
-* collection-items - List of collections in use, and associated files
+* collection-items.json - List of collections in use, and associated files
 
 Collaborators on this repository are granted admin access in the Geoportal site.
 
