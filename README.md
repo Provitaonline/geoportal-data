@@ -13,6 +13,8 @@ Data items:
 * meta (directory) - Metadata associated with the GIS datasets published by the application
 * news (directory) - News items
 * news/thumbs (directory) - Thumbnails associated with news items
+* collections.json - Metadata associated with collections
+* collection-items.json - List of collections in use, and associated files
 
 Collaborators on this repository are granted admin access in the Geoportal site.
 
