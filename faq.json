@@ -69,6 +69,17 @@
     },
     {
       "question": {
+        "en": "I do not belong to Provita but I have relevant information, Can I publish it in this site?",
+        "es": "No pertenezco a Provita pero tengo información relevante, ¿Puedo publicarla en el Geoportal?"
+      },
+      "answer": {
+        "en": "Yes, you can [contact us](/contact) to coordinate the type of information you want to share and evaluate it. All credits of the information will be respected.",
+        "es": "Sí, puedes ponerte en [contacto](/contact) con nosotros para coordinar que tipo de información quieres compartir y hacer la evaluación de la misma. Se respetarán todos los créditos de la información."
+      },
+      "subject": 0
+    },
+    {
+      "question": {
         "en": "What are the dates of the Geoportal data sets?",
         "es": "¿De qué fecha son los archivos que puedo encontrar en el Geoportal?"
       },
@@ -132,17 +143,6 @@
         "es": "Los datos son de uso público pero deben ser citados reconociendo los derechos de autor. Esto aplica para productos generados por Provita o creados/modificados por la institución con su respectiva fuente. Por lo tanto, el usuario tiene acceso libre a todos los archivos disponibles en el Geoportal, bajo la licencia \"[Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.es)\"\n\nEjemplo de cómo citar:\n\n*Autor. Título del archivo. [Formato]. «Título del documento completo o sitio». Fecha de información. URL. (Fecha de consulta/descarga).*\n\n*Provita. Formaciones vegetales. [shapefile]. «Geoportal Provita». Junio de 2010. [https://geoportal.provita.org.ve/](https://geoportal.provita.org.ve/). (Consultado 10/May/2021).*"
       },
       "subject": 2
-    },
-    {
-      "question": {
-        "en": "I do not belong to Provita but I have relevant information, Can I publish it in this site?",
-        "es": "No pertenezco a Provita pero tengo información relevante, ¿Puedo publicarla en el Geoportal?"
-      },
-      "answer": {
-        "en": "Yes, you can contact us to coordinate the type of information you want to share and evaluate it. All credits of the information will be respected.",
-        "es": "Sí, puedes ponerte en contacto con nosotros para coordinar que tipo de información quieres compartir y hacer la evaluación de la misma. Se respetarán todos los créditos de la información."
-      },
-      "subject": 0
     }
   ]
 }
