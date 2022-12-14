@@ -1,0 +1,29 @@
+{
+  "file": "210910_Vialidad_venezuela_WGS84.zip",
+  "format": "shapefile",
+  "name": {
+    "es": "Vialidad ",
+    "en": "Highway "
+  },
+  "source": "Provita",
+  "keywords": {
+    "es": [
+      "vialidad",
+      "vias",
+      "carreteras",
+      "vias ferreas"
+    ],
+    "en": [
+      "highway",
+      "road",
+      "railway"
+    ]
+  },
+  "description": {
+    "es": "Representación de la vialidad para el territorio nacional de Venezuela. Contiene las vías base para el país compuesta por carreteras pavimentadas y no pavimentadas, así como vías férreas. Se presenta un mayor detalle en las vías para el sur del Orinoco. ",
+    "en": "Representation of the highways for the national territory of Venezuela. It contains the base roads for the country considering of paved and unpaved highways, as well as railways. More detail is presented on the roads to the south of the Orinoco."
+  },
+  "tileInfo": "{\"type\":\"vector\",\"displayAttribute\":\"tipo\",\"style\":{\"type\":\"line\",\"paint\":{\"line-color\":\"#9b1212\",\"line-width\":0.5}}}",
+  "tiles": "210910_vialidad_venezuela_wgs84",
+  "date": "2021-09-10T04:00:00.000Z"
+}
