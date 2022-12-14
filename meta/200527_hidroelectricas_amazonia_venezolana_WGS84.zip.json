@@ -24,7 +24,7 @@
     "es": "En este archivo se compilan datos de las centrales hidroeléctricas en la Amazonía venezolana recabada a través de diversas fuentes de información oficial.",
     "en": "This file contains data on hydroelectric plants in the Venezuelan Amazon collected through different official information sources."
   },
-  "tileInfo": "{\"type\":\"vector\",\"style\":{\"type\":\"circle\",\"paint\":{\"circle-color\":\"#d01616\",\"circle-opacity\":0.5,\"circle-radius\":0.5,\"circle-stroke-width\":0.5,\"circle-stroke-color\":\"#000\"}},\"displayAttribute\":\"tipo\"}",
+  "tileInfo": "{\"type\":\"vector\",\"style\":{\"type\":\"circle\",\"paint\":{\"circle-color\":\"#d01616\",\"circle-opacity\":0.5,\"circle-radius\":5,\"circle-stroke-width\":1,\"circle-stroke-color\":\"#000\"}},\"displayAttribute\":\"tipo\"}",
   "tiles": "200527_hidroelectricas_amazonia_venezolana_wgs84",
   "date": "2020-05-27T04:00:00.000Z"
 }
