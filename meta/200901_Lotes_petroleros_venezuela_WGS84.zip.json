@@ -2,7 +2,7 @@
   "file": "200901_Lotes_petroleros_venezuela_WGS84.zip",
   "format": "shapefile",
   "name": {
-    "es": "Lotes petróleros en Venezuela",
+    "es": "Lotes petroleros en Venezuela",
     "en": "Oil reserves in Venezuela"
   },
   "source": "Provita",
@@ -19,7 +19,7 @@
     ]
   },
   "description": {
-    "es": "Este archivo contiene información de los lotes petróleros en Venezuela, provenientes de instituciones oficiales del país.",
+    "es": "Este archivo contiene información de los lotes petroleros en Venezuela, provenientes de instituciones oficiales del país.",
     "en": "This file contains information on the oil reserves in Venezuela, from official institutions of the country."
   },
   "tileInfo": "{\"type\":\"vector\",\"displayAttribute\":\"situacion\",\"style\":{\"type\":\"fill\",\"paint\":{\"fill-color\":{\"type\":\"categorical\",\"property\":\"situacion\",\"default\":\"#724596\",\"stops\":[[\"en explotación\",\"#724596\"],[\"en exploración\",\"#8d3da4\"],[\"Fase de unificación de Yacimientos\",\"#c280e5\"],[\"solicitud\",\"#d1a2d2\"],[\"s.i.\",\"#e0c1e6\"]]},\"fill-opacity\":0.8,\"fill-outline-color\":\"#000\"}}}",
