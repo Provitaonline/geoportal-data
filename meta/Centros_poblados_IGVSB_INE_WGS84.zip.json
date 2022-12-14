@@ -5,7 +5,7 @@
     "es": "Centros poblados",
     "en": "Population centers"
   },
-  "tileInfo": "{\"type\":\"vector\",\"style\":{\"type\":\"circle\",\"paint\":{\"circle-radius\":5,\"circle-opacity\":0.6,\"circle-color\":\"#8B008B\",\"circle-stroke-color\":\"#ffffff\",\"circle-stroke-width\":0},\"id\":\"centros_poblados_igvsb_ine_wgs84\",\"source\":\"centros_poblados_igvsb_ine_wgs84\",\"source-layer\":\"centros_poblados_igvsb_ine_wgs84\"},\"displayAttribute\":\"nombre_cen\"}",
+  "tileInfo": "{\"type\":\"vector\",\"style\":{\"type\":\"circle\",\"paint\":{\"circle-radius\":5,\"circle-opacity\":0.8,\"circle-color\":\"#8B008B\",\"circle-stroke-color\":\"#000\",\"circle-stroke-width\":0.5},\"id\":\"centros_poblados_igvsb_ine_wgs84\",\"source\":\"centros_poblados_igvsb_ine_wgs84\",\"source-layer\":\"centros_poblados_igvsb_ine_wgs84\"},\"displayAttribute\":\"nombre_cen\"}",
   "description": {
     "en": "This file contains data about population centers of Venezuela from the Simón Bolívar Geographic Venezuelan Institute (IGVSB in spanish) and the National Institute of Statistics (INE in spanish).",
     "es": "Este archivo contiene datos de los centros poblados de Venezuela provenientes del Instituto Geográfico de Venezuela Simón Bolívar (IGVSB) y el Instituto Nacional de Estadística (INE)."
