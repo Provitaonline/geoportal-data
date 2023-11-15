@@ -1,0 +1,26 @@
+{
+  "file": "230729_ANP_VEN_WGS84.zip",
+  "format": "shapefile",
+  "name": {
+    "es": "Áreas Naturales Protegidas de Venezuela",
+    "en": "Protected Natural Areas of Venezuela"
+  },
+  "source": "Provita",
+  "keywords": {
+    "en": [
+      "protected natural area",
+      "NPA"
+    ],
+    "es": [
+      "area natural protegida",
+      "ANP"
+    ]
+  },
+  "description": {
+    "es": "Contiene los límites de demarcación de las áreas naturales protegidas de Venezuela. Incluye monumentos naturales, parques nacionales, refugio de fauna silvestre, reserva de fauna silvestre, santuario de fauna silvestre reservas de biosfera y reservas forestales.",
+    "en": "Contains the demarcation boundaries of the protected natural of Venezuela. Includes natural monuments, national parks, wildlife refuges, wildlife reserves, wildlife sanctuaries, biosphere reserves, and forest reserves."
+  },
+  "tileInfo": "{\"type\":\"vector\",\"displayAttribute\":\"nombre\",\"style\":{\"type\":\"fill\",\"paint\":{\"fill-color\":{\"type\":\"categorical\",\"property\":\"categoria\",\"default\":\"#760000\",\"stops\":[[\"Parque Nacional\",\"#246400\"],[\"Monumento Natural\",\"#338c00\"],[\"Refugio de Fauna Silvestre\",\"#abd65c\"],[\"Reserva de Biosfera\",\"#45bc00\"],[\"Reserva Forestal\",\"#90ff4b\"]]},\"fill-opacity\":0.5,\"fill-outline-color\":\"#000\"}}}",
+  "tiles": "230729_anp_ven_wgs84",
+  "date": "2023-07-29T04:00:00.000Z"
+}
