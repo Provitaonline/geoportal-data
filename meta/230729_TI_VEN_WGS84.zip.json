@@ -1,0 +1,28 @@
+{
+  "file": "230729_TI_VEN_WGS84.zip",
+  "format": "shapefile",
+  "name": {
+    "es": "Territorios Indígenas de Venezuela ",
+    "en": "Indigenous People of Venezuela"
+  },
+  "source": "Provita",
+  "description": {
+    "es": "Contiene los límites de los terriotorios indígenas de Venezuela. Se consideran principalmente dos tipos de territorios: reconocidos oficialmente y sin reconocimiento oficial, asociado a los pueblos indígenas que habitan en todo el territorio nacional.",
+    "en": "Contains the limits of the indigenous territories of Venezuela. Two types of territories are mainly considered: officially recognized and without official recognition, associated with the indigenous people who live throughout the national territory."
+  },
+  "tileInfo": "{\"type\":\"vector\",\"displayAttribute\":\"nombre\",\"style\":{\"type\":\"fill\",\"paint\":{\"fill-color\":{\"type\":\"categorical\",\"property\":\"categoria\",\"default\":\"#a56203\",\"stops\":[[\"Territorio reconocido oficialmente\",\"#bb8716\"],[\"Territorio sin reconocimiento oficial\",\"#eeae53\"]]},\"fill-opacity\":0.5,\"fill-outline-color\":\"#000\"}}}",
+  "tiles": "230729_ti_ven_wgs84",
+  "date": "2023-07-29T04:00:00.000Z",
+  "keywords": {
+    "es": [
+      "territorio indigena",
+      "etnia",
+      "venezuela"
+    ],
+    "en": [
+      "indigenous people",
+      "ethnicity",
+      "venezuela"
+    ]
+  }
+}
