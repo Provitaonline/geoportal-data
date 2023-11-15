@@ -1,0 +1,28 @@
+{
+  "file": "230507_Energia_electrica_venezuela_WGS84.zip",
+  "format": "shapefile",
+  "name": {
+    "es": "Energía eléctrica de Venezuela",
+    "en": "Electric energy of Venezuela"
+  },
+  "source": "Provita",
+  "description": {
+    "es": "En este archivo se compilan datos de las centrales hidroeléctricas y termoeléctricas de Venezuela recabadas a través de diversas fuentes de información oficial.",
+    "en": "This file contains data on hydroelectric plants in the Venezuelan Amazon collected through different official information sources.\n\nThis file compiles data on the hydroelectric and thermoelectric plants in Venezuela collected through official information sources."
+  },
+  "tileInfo": "{\"type\":\"vector\",\"style\":{\"type\":\"circle\",\"paint\":{\"circle-color\":\"#ef0101\",\"circle-opacity\":1,\"circle-radius\":4,\"circle-stroke-width\":1,\"circle-stroke-color\":\"#000\"}},\"displayAttribute\":\"nombre\"}",
+  "tiles": "230507_energia_electrica_venezuela_wgs84",
+  "date": "2023-05-23T04:00:00.000Z",
+  "keywords": {
+    "es": [
+      "hidroelectricas",
+      "energia",
+      "venezuela"
+    ],
+    "en": [
+      "hydroelectric power",
+      "energy",
+      "venezuela"
+    ]
+  }
+}
