@@ -18,7 +18,7 @@
   },
   "description": {
     "es": "Contiene los límites de demarcación de las áreas naturales protegidas de Venezuela. Incluye monumentos naturales, parques nacionales, refugios de fauna silvestre, reservas de fauna silvestre, santuarios de fauna silvestre, reservas de biosfera y reservas forestales.",
-    "en": "Contains the demarcation boundaries of the protected natural of Venezuela. Includes natural monuments, national parks, wildlife refuges, wildlife reserves, wildlife sanctuaries, biosphere reserves, and forest reserves."
+    "en": "Contains the demarcation boundaries of the protected natural of Venezuela. Includes natural monuments, national parks, wildlife refuges, wildlife reserves, wildlife sanctuaries, biosphere reserves and forest reserves."
   },
   "tileInfo": "{\"type\":\"vector\",\"displayAttribute\":\"nombre\",\"style\":{\"type\":\"fill\",\"paint\":{\"fill-color\":{\"type\":\"categorical\",\"property\":\"categoria\",\"default\":\"#760000\",\"stops\":[[\"Parque Nacional\",\"#2b6808\"],[\"Monumento Natural\",\"#49af0e\"],[\"Refugio de Fauna Silvestre\",\"#1ba187\"],[\"Reserva de Fauna Silvestre\",\"#46d2b6\"],[\"Santuario de Fauna Silvestre\",\"#7be5d0\"],[\"Reserva de Biosfera\",\"#8bca16\"],[\"Reserva Forestal\",\"#90ff4b\"]]},\"fill-opacity\":0.5,\"fill-outline-color\":\"#000\"}}}",
   "tiles": "230729_anp_ven_wgs84",
