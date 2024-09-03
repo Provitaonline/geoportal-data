@@ -1,0 +1,28 @@
+{
+  "file": "Limites_internacionales_de_venezuela_IGVSB_WGS84.zip",
+  "format": "shapefile",
+  "name": {
+    "es": "Límites internacionales",
+    "en": "International boundaries"
+  },
+  "source": "IGVSB",
+  "description": {
+    "es": "Límites internacionales oficiales de la República Bolivariana de Venezuela publicados por el Instituto Geográfico de Venezuela Simón Bolívar (IGVSB).",
+    "en": "Official international boundaries of the Bolivarian Republic of Venezuela published by the Simon Bolivar Venezuelan Geographic Institute (IGVSB in spanish)."
+  },
+  "keywords": {
+    "es": [
+      "límites",
+      "internacional",
+      "venezuela"
+    ],
+    "en": [
+      "boundaries",
+      "international",
+      "venezuela"
+    ]
+  },
+  "tileInfo": "{\"type\":\"vector\",\"displayAttribute\":\"nam\",\"style\":{\"type\":\"line\",\"paint\":{\"line-color\":\"#000000\",\"line-width\":1.5}}}",
+  "tiles": "limites_internacionales_de_venezuela_igvsb_wgs84",
+  "date": "2019-11-16T04:00:00.000Z"
+}
