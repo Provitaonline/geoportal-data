@@ -2,8 +2,8 @@
   "file": "240808_TI_VEN_WGS84.zip",
   "format": "shapefile",
   "name": {
-    "es": "Territorios Indígenas de Venezuela  (COP",
-    "en": "Indigenous People of Venezuela (COPY)"
+    "es": "Territorios Indígenas de Venezuela  ",
+    "en": "Indigenous People of Venezuela"
   },
   "source": "Provita y Wataniba",
   "description": {
@@ -12,7 +12,7 @@
   },
   "tileInfo": "{\"type\":\"vector\",\"displayAttribute\":\"nombre\",\"style\":{\"type\":\"fill\",\"paint\":{\"fill-color\":{\"type\":\"categorical\",\"property\":\"leyenda\",\"default\":\"#bd3900\",\"stops\":[[\"Territorio reconocido oficialmente\",\"#944300\"],[\"Territorio sin reconocimiento oficial\",\"#f47601\"]]},\"fill-opacity\":0.5,\"fill-outline-color\":\"#000\"}}}",
   "tiles": "240808_ti_ven_wgs84",
-  "date": "2023-07-29T04:00:00.000Z",
+  "date": "2024-08-08T04:00:00.000Z",
   "keywords": {
     "es": [
       "territorio indigena",
