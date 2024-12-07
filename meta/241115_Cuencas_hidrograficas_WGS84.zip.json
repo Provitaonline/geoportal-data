@@ -3,8 +3,8 @@
   "format": "shapefile",
   "tiles": "241115_cuencas_hidrograficas_wgs84",
   "name": {
-    "es": "Cuencas hidrográficas de la Amazonía venezolana (COPIA)",
-    "en": "Hydrographic basins of the Venezuelan Amazon  (COPY)"
+    "es": "Cuencas hidrográficas de Venezuela",
+    "en": "Hydrographic basins of Venezuela"
   },
   "source": "MINEC, 2014; actualizado por Provita, 2024",
   "description": {
